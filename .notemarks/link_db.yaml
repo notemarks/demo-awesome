@@ -1,1717 +1,1741 @@
 links:
-  - title: 'Awesome Indexed'
-    target: 'https://awesome-indexed.mathew-davies.co.uk'
-    ownLabels: ['Related']
-  - title: 'Awesome Search'
-    target: 'https://awesomelists.top'
-    ownLabels: ['Related']
-  - title: 'DevSecOps](https://github.com/TaptuIT/awesome-devsecops#readme) - Integration of security practices into [DevOps'
-    target: 'https://en.wikipedia.org/wiki/DevOps'
-    ownLabels: ['Security']
-  - title: '30 Seconds of Code'
-    target: 'https://github.com/30-seconds/30-seconds-of-code#readme'
-    ownLabels: ['Programming Languages']
-  - title: 'Discounts for Student Developers'
-    target: 'https://github.com/AchoArnold/discount-for-student-dev#readme'
-    ownLabels: ['Miscellaneous']
-  - title: 'Blazor'
-    target: 'https://github.com/AdrienTorris/awesome-blazor#readme'
-    ownLabels: ['Front-End Development']
-  - title: 'Protips'
-    target: 'https://github.com/AllThingsSmitty/css-protips#readme'
-    ownLabels: ['Front-End Development']
-  - title: 'Tips'
-    target: 'https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know#readme'
-    ownLabels: ['Front-End Development']
-  - title: 'Must-Watch Talks'
-    target: 'https://github.com/AllThingsSmitty/must-watch-css#readme'
-    ownLabels: ['Front-End Development']
-  - title: 'Windows'
-    target: 'https://github.com/Awesome-Windows/Awesome#readme'
-    ownLabels: ['Platforms']
-  - title: 'Markdown'
-    target: 'https://github.com/BubuAnabelas/awesome-markdown#readme'
-    ownLabels: ['Miscellaneous']
-  - title: 'Transit'
-    target: 'https://github.com/CUTR-at-USF/awesome-transit#readme'
-    ownLabels: ['Miscellaneous']
-  - title: 'Godot'
-    target: 'https://github.com/Calinou/awesome-godot#readme'
-    ownLabels: ['Gaming']
-  - title: 'Vapor'
-    target: 'https://github.com/Cellane/awesome-vapor#readme'
-    ownLabels: ['Back-End Development']
-  - title: 'Deep Learning'
-    target: 'https://github.com/ChristosChristofidis/awesome-deep-learning#readme'
-    ownLabels: ['Computer Science']
-  - title: 'Chrome DevTools'
-    target: 'https://github.com/ChromeDevTools/awesome-chrome-devtools#readme'
-    ownLabels: ['Front-End Development']
-  - title: 'Code Points'
-    target: 'https://github.com/Codepoints/awesome-codepoints#readme'
-    ownLabels: ['Miscellaneous']
-  - title: 'Common Lisp'
-    target: 'https://github.com/CodyReichert/awesome-cl#readme'
-    ownLabels: ['Programming Languages']
-  - title: 'EOSIO'
-    target: 'https://github.com/DanailMinchev/awesome-eosio#readme'
-    ownLabels: ['Decentralized Systems']
-  - title: 'FOSS Production Apps'
-    target: 'https://github.com/DataDaoDe/awesome-foss-apps#readme'
-    ownLabels: ['Miscellaneous']
-  - title: 'Magento 2'
-    target: 'https://github.com/DavidLambauer/awesome-magento2#readme'
-    ownLabels: ['Miscellaneous']
-  - title: 'Haxe Game Development'
-    target: 'https://github.com/Dvergar/awesome-haxe-gamedev#readme'
-    ownLabels: ['Gaming']
-  - title: 'Free Programming Books'
-    target: 'https://github.com/EbookFoundation/free-programming-books#readme'
-    ownLabels: ['Books']
-  - title: 'Sass'
-    target: 'https://github.com/Famolus/awesome-sass#readme'
-    ownLabels: ['Front-End Development']
-  - title: 'Pascal'
-    target: 'https://github.com/Fr0sT-Brutal/awesome-pascal#readme'
-    ownLabels: ['Programming Languages']
-  - title: 'Containers'
-    target: 'https://github.com/Friz-zy/awesome-linux-containers#readme'
-    ownLabels: ['Platforms']
-  - title: 'Polymer'
-    target: 'https://github.com/Granze/awesome-polymer#readme'
-    ownLabels: ['Front-End Development']
-  - title: 'Learning'
-    target: 'https://github.com/GustavBertram/awesome-common-lisp-learning#readme'
-    ownLabels: ['Programming Languages']
-  - title: 'Internet of Things'
-    target: 'https://github.com/HQarroum/awesome-iot#readme'
-    ownLabels: ['Hardware']
-  - title: 'Programming for Kids'
-    target: 'https://github.com/HollyAdele/awesome-programming-for-kids#readme'
-    ownLabels: ['Learn']
-  - title: 'AutoIt'
-    target: 'https://github.com/J2TeaM/awesome-AutoIt#readme'
-    ownLabels: ['Programming Languages']
-  - title: 'Android'
-    target: 'https://github.com/JStumpp/awesome-android#readme'
-    ownLabels: ['Platforms']
-  - title: 'Talks'
-    target: 'https://github.com/JanVanRyswyck/awesome-talks#readme'
-    ownLabels: ['Theory']
-  - title: 'Qt'
-    target: 'https://github.com/JesseTG/awesome-qt#readme'
-    ownLabels: ['Platforms']
-  - title: 'GNOME'
-    target: 'https://github.com/Kazhnuz/awesome-gnome#readme'
-    ownLabels: ['Platforms']
-  - title: 'Ansible'
-    target: 'https://github.com/KeyboardInterrupt/awesome-ansible#readme'
-    ownLabels: ['Miscellaneous']
-  - title: 'Network Layer'
-    target: 'https://github.com/Kikobeats/awesome-network-js#readme'
-    ownLabels: ['Programming Languages']
-  - title: 'Robotics'
-    target: 'https://github.com/Kiloreux/awesome-robotics#readme'
-    ownLabels: ['Hardware']
-  - title: 'Empathy in Engineering'
-    target: 'https://github.com/KimberlyMunoz/empathy-in-engineering#readme'
-    ownLabels: ['Miscellaneous']
-  - title: 'Kotlin'
-    target: 'https://github.com/KotlinBy/awesome-kotlin#readme'
-    ownLabels: ['Programming Languages']
-  - title: 'Leading and Managing'
-    target: 'https://github.com/LappleApple/awesome-leading-and-managing#readme'
-    ownLabels: ['Business']
-  - title: 'Lua'
-    target: 'https://github.com/LewisJEllis/awesome-lua#readme'
-    ownLabels: ['Programming Languages']
-  - title: 'Less'
-    target: 'https://github.com/LucasBassetti/awesome-less#readme'
-    ownLabels: ['Front-End Development']
-  - title: 'Sitecore'
-    target: 'https://github.com/MartinMiles/Awesome-Sitecore#readme'
-    ownLabels: ['Content Management Systems']
-  - title: 'Programming Interviews'
-    target: 'https://github.com/MaximAbramchuck/awesome-interview-questions#readme'
-    ownLabels: ['Work']
-  - title: 'Beginner-Friendly Projects'
-    target: 'https://github.com/MunGell/awesome-for-beginners#readme'
-    ownLabels: ['Miscellaneous']
-  - title: 'Design and Development Guides'
-    target: 'https://github.com/NARKOZ/guides#readme'
-    ownLabels: ['Miscellaneous']
-  - title: 'Inspiration'
-    target: 'https://github.com/NoahBuscher/Inspire#readme'
-    ownLabels: ['Front-End Development']
-  - title: 'Arch-based Projects'
-    target: 'https://github.com/PandaFoss/Awesome-Arch#readme'
-    ownLabels: ['Platforms']
-  - title: 'Angular'
-    target: 'https://github.com/PatrickJS/awesome-angular#readme'
-    ownLabels: ['Front-End Development']
-  - title: 'Play1 Framework'
-    target: 'https://github.com/PerfectCarl/awesome-play1#readme'
-    ownLabels: ['Back-End Development']
-  - title: 'Apache Wicket'
-    target: 'https://github.com/PhantomYdn/awesome-wicket#readme'
-    ownLabels: ['Back-End Development']
-  - title: 'Social Enterprise'
-    target: 'https://github.com/RayBB/awesome-social-enterprise#readme'
-    ownLabels: ['Business']
-  - title: 'Fantasy'
-    target: 'https://github.com/RichardLitt/awesome-fantasy#readme'
-    ownLabels: ['Entertainment']
-  - title: 'Ponyfills'
-    target: 'https://github.com/Richienb/awesome-ponyfills#readme'
-    ownLabels: ['Programming Languages']
-  - title: 'R Books'
-    target: 'https://github.com/RomanTsegelskyi/rbooks#readme'
-    ownLabels: ['Books']
-  - title: 'Unity'
-    target: 'https://github.com/RyanNielson/awesome-unity#readme'
-    ownLabels: ['Gaming']
-  - title: 'npm scripts'
-    target: 'https://github.com/RyanZim/awesome-npm-scripts#readme'
-    ownLabels: ['Programming Languages']
-  - title: 'Software Engineering for Machine Learning'
-    target: 'https://github.com/SE-ML/awesome-seml#readme'
-    ownLabels: ['Computer Science']
-  - title: 'Amazon Sellers'
-    target: 'https://github.com/ScaleLeap/awesome-amazon-seller#readme'
-    ownLabels: ['Miscellaneous']
-  - title: 'Colorful'
-    target: 'https://github.com/Siddharth11/Colorful#readme'
-    ownLabels: ['Miscellaneous']
-  - title: 'Pixel Art'
-    target: 'https://github.com/Siilwyn/awesome-pixel-art#readme'
-    ownLabels: ['Media']
-  - title: 'Flutter'
-    target: 'https://github.com/Solido/awesome-flutter#readme'
-    ownLabels: ['Platforms']
-  - title: 'Appium'
-    target: 'https://github.com/SrinivasanTarget/awesome-appium#readme'
-    ownLabels: ['Testing']
-  - title: 'Book Authoring'
-    target: 'https://github.com/TalAter/awesome-book-authoring#readme'
-    ownLabels: ['Books']
-  - title: 'Progressive Web Apps'
-    target: 'https://github.com/TalAter/awesome-progressive-web-apps#readme'
-    ownLabels: ['Front-End Development']
-  - title: 'Service Workers'
-    target: 'https://github.com/TalAter/awesome-service-workers#readme'
-    ownLabels: ['Front-End Development']
-  - title: 'Svelte'
-    target: 'https://github.com/TheComputerM/awesome-svelte#readme'
-    ownLabels: ['Front-End Development']
-  - title: 'Testing'
-    target: 'https://github.com/TheJambo/awesome-testing#readme'
-    ownLabels: ['Testing']
-  - title: 'Meteor'
-    target: 'https://github.com/Urigo/awesome-meteor#readme'
-    ownLabels: ['Front-End Development']
-  - title: 'Construct 2'
-    target: 'https://github.com/WebCreationClub/awesome-construct#readme'
-    ownLabels: ['Gaming']
-  - title: 'Unicode'
-    target: 'https://github.com/Wisdom/Awesome-Unicode#readme'
-    ownLabels: ['Miscellaneous']
-  - title: 'Xamarin'
-    target: 'https://github.com/XamSome/awesome-xamarin#readme'
-    ownLabels: ['Platforms']
-  - title: 'Captcha'
-    target: 'https://github.com/ZYSzys/awesome-captcha#readme'
-    ownLabels: ['Miscellaneous']
-  - title: 'Crypto Currency Tools & Algorithms'
-    target: 'https://github.com/Zheaoli/awesome-coins#readme'
-    ownLabels: ['Miscellaneous']
-  - title: 'TensorFlow.js'
-    target: 'https://github.com/aaronhma/awesome-tensorflow-js#readme'
-    ownLabels: ['Computer Science']
-  - title: 'Data Science'
-    target: 'https://github.com/academic/awesome-datascience#readme'
-    ownLabels: ['Computer Science']
-  - title: 'Adafruit IO'
-    target: 'https://github.com/adafruit/awesome-adafruitio#readme'
-    ownLabels: ['Platforms']
-  - title: 'CircuitPython'
-    target: 'https://github.com/adafruit/awesome-circuitpython#readme'
-    ownLabels: ['Programming Languages']
-  - title: 'Critical-Path Tools'
-    target: 'https://github.com/addyosmani/critical-path-css-tools#readme'
-    ownLabels: ['Front-End Development']
-  - title: 'ES6 Tools'
-    target: 'https://github.com/addyosmani/es6-tools#readme'
-    ownLabels: ['Front-End Development']
-  - title: 'Flexbox'
-    target: 'https://github.com/afonsopacifer/awesome-flexbox#readme'
-    ownLabels: ['Front-End Development']
-  - title: 'Command-Line Apps'
-    target: 'https://github.com/agarrharr/awesome-cli-apps#readme'
-    ownLabels: ['Development Environment']
-  - title: 'Screensavers'
-    target: 'https://github.com/agarrharr/awesome-macos-screensavers#readme'
-    ownLabels: ['Platforms']
-  - title: 'Static Website Services'
-    target: 'https://github.com/agarrharr/awesome-static-website-services#readme'
-    ownLabels: ['Front-End Development']
-  - title: 'ESP'
-    target: 'https://github.com/agucova/awesome-esp#readme'
-    ownLabels: ['Platforms']
-  - title: 'AutoHotkey'
-    target: 'https://github.com/ahkscript/awesome-AutoHotkey#readme'
-    ownLabels: ['Programming Languages']
-  - title: 'Java'
-    target: 'https://github.com/akullpp/awesome-java#readme'
-    ownLabels: ['Programming Languages']
-  - title: 'Shell'
-    target: 'https://github.com/alebcay/awesome-shell#readme'
-    ownLabels: ['Development Environment']
-  - title: 'C'
-    target: 'https://github.com/aleksandar-todorovic/awesome-c#readme'
-    ownLabels: ['Programming Languages']
-  - title: 'Linux'
-    target: 'https://github.com/aleksandar-todorovic/awesome-linux#readme'
-    ownLabels: ['Platforms']
-  - title: 'Bitcoin Payment Processors'
-    target: 'https://github.com/alexk111/awesome-bitcoin-payment-processors#readme'
-    ownLabels: ['Miscellaneous']
-  - title: 'Gulp'
-    target: 'https://github.com/alferov/awesome-gulp#readme'
-    ownLabels: ['Miscellaneous']
-  - title: 'JMeter'
-    target: 'https://github.com/aliesbelik/awesome-jmeter#readme'
-    ownLabels: ['Testing']
-  - title: 'Qlik'
-    target: 'https://github.com/ambster-public/awesome-qlik#readme'
-    ownLabels: ['Big Data']
-  - title: 'Static Analysis & Code Quality'
-    target: 'https://github.com/analysis-tools-dev/static-analysis#readme'
-    ownLabels: ['Computer Science']
-  - title: 'Neuroscience'
-    target: 'https://github.com/analyticalmonk/awesome-neuroscience#readme'
-    ownLabels: ['Miscellaneous']
-  - title: 'FIRST Robotics Competition'
-    target: 'https://github.com/andrewda/awesome-frc#readme'
-    ownLabels: ['Miscellaneous']
-  - title: 'Esolangs'
-    target: 'https://github.com/angrykoala/awesome-esolangs#readme'
-    ownLabels: ['Miscellaneous']
-  - title: 'Tailwind CSS'
-    target: 'https://github.com/aniftyco/awesome-tailwindcss#readme'
-    ownLabels: ['Front-End Development']
-  - title: 'Economics'
-    target: 'https://github.com/antontarasenko/awesome-economics#readme'
-    ownLabels: ['Miscellaneous']
-  - title: 'CTF'
-    target: 'https://github.com/apsdehal/awesome-ctf#readme'
-    ownLabels: ['Security']
-  - title: 'ML with Ruby'
-    target: 'https://github.com/arbox/machine-learning-with-ruby#readme'
-    ownLabels: ['Computer Science']
-  - title: 'NLP with Ruby'
-    target: 'https://github.com/arbox/nlp-with-ruby#readme'
-    ownLabels: ['Computer Science']
-  - title: 'Git Cheat Sheet & Git Flow'
-    target: 'https://github.com/arslanbilal/git-cheat-sheet#readme'
-    ownLabels: ['Development Environment']
-  - title: 'Android Security'
-    target: 'https://github.com/ashishb/android-security-awesome#readme'
-    ownLabels: ['Security']
-  - title: 'Aurelia'
-    target: 'https://github.com/aurelia-contrib/awesome-aurelia#readme'
-    ownLabels: ['Front-End Development']
-  - title: 'JAMstack'
-    target: 'https://github.com/automata/awesome-jamstack#readme'
-    ownLabels: ['Front-End Development']
-  - title: 'AVA'
-    target: 'https://github.com/avajs/awesome-ava#readme'
-    ownLabels: ['Programming Languages']
-  - title: 'Go'
-    target: 'https://github.com/avelino/awesome-go#readme'
-    ownLabels: ['Programming Languages']
-  - title: 'No-Login Web Apps'
-    target: 'https://github.com/aviaryan/awesome-no-login-web-apps#readme'
-    ownLabels: ['Miscellaneous']
-  - title: 'CSS'
-    target: 'https://github.com/awesome-css-group/awesome-css#readme'
-    ownLabels: ['Front-End Development']
-  - title: 'Self Hosted'
-    target: 'https://github.com/awesome-selfhosted/awesome-selfhosted#readme'
-    ownLabels: ['Miscellaneous']
-  - title: 'Apache Spark'
-    target: 'https://github.com/awesome-spark/awesome-spark#readme'
-    ownLabels: ['Big Data']
-  - title: 'Public Datasets'
-    target: 'https://github.com/awesomedata/awesome-public-datasets#readme'
-    ownLabels: ['Big Data']
-  - title: 'Events in the Netherlands'
-    target: 'https://github.com/awkward/awesome-netherlands-events#readme'
-    ownLabels: ['Events']
-  - title: 'Podcasts'
-    target: 'https://github.com/ayr-ton/awesome-geek-podcasts#readme'
-    ownLabels: ['Entertainment']
-  - title: 'GDPR'
-    target: 'https://github.com/bakke92/awesome-gdpr#readme'
-    ownLabels: ['Security']
-  - title: 'StumbleUponAwesome'
-    target: 'https://github.com/basharovV/StumbleUponAwesome'
-    ownLabels: ['Related']
-  - title: 'Cross-Platform'
-    target: 'https://github.com/bcoe/awesome-cross-platform-nodejs#readme'
-    ownLabels: ['Platforms']
-  - title: 'Agriculture'
-    target: 'https://github.com/beaorn/awesome-agriculture#readme'
-    ownLabels: ['Miscellaneous']
-  - title: 'Plotters'
-    target: 'https://github.com/beardicus/awesome-plotters#readme'
-    ownLabels: ['Hardware']
-  - title: 'TALL Stack'
-    target: 'https://github.com/blade-ui-kit/awesome-tall-stack#readme'
-    ownLabels: ['Back-End Development']
-  - title: 'Hyper'
-    target: 'https://github.com/bnb/awesome-hyper#readme'
-    ownLabels: ['Development Environment']
-  - title: 'Must Watch Talks'
-    target: 'https://github.com/bolshchikov/js-must-watch#readme'
-    ownLabels: ['Programming Languages']
-  - title: 'Fonts'
-    target: 'https://github.com/brabadu/awesome-fonts#readme'
-    ownLabels: ['Media']
-  - title: 'Network Analysis'
-    target: 'https://github.com/briatte/awesome-network-analysis#readme'
-    ownLabels: ['Networking']
-  - title: 'Redux'
-    target: 'https://github.com/brillout/awesome-redux#readme'
-    ownLabels: ['Front-End Development']
-  - title: 'Browserify'
-    target: 'https://github.com/browserify/awesome-browserify#readme'
-    ownLabels: ['Front-End Development']
-  - title: 'Userscripts'
-    target: 'https://github.com/brunocvcunha/awesome-userscripts#readme'
-    ownLabels: ['Miscellaneous']
-  - title: 'Web Accessibility'
-    target: 'https://github.com/brunopulis/awesome-a11y#readme'
-    ownLabels: ['Front-End Development']
-  - title: 'Minecraft'
-    target: 'https://github.com/bs-community/awesome-minecraft#readme'
-    ownLabels: ['Gaming']
-  - title: 'JSON'
-    target: 'https://github.com/burningtree/awesome-json#readme'
-    ownLabels: ['Miscellaneous']
-  - title: 'Cordova'
-    target: 'https://github.com/busterc/awesome-cordova#readme'
-    ownLabels: ['Platforms']
-  - title: 'PCAPTools'
-    target: 'https://github.com/caesar0301/awesome-pcaptools#readme'
-    ownLabels: ['Networking']
-  - title: 'Ionic Framework 2'
-    target: 'https://github.com/candelibas/awesome-ionic#readme'
-    ownLabels: ['Front-End Development']
-  - title: 'Hacking'
-    target: 'https://github.com/carpedm20/awesome-hacking#readme'
-    ownLabels: ['Security']
-  - title: 'Prisma'
-    target: 'https://github.com/catalinmiron/awesome-prisma#readme'
-    ownLabels: ['Miscellaneous']
-  - title: 'Biomedical Information Extraction'
-    target: 'https://github.com/caufieldjh/awesome-bioie#readme'
-    ownLabels: ['Miscellaneous']
-  - title: 'Advertising'
-    target: 'https://github.com/cenoura/awesome-ads#readme'
-    ownLabels: ['Miscellaneous']
-  - title: 'Corda'
-    target: 'https://github.com/chainstack/awesome-corda#readme'
-    ownLabels: ['Decentralized Systems']
-  - title: 'GraphQL'
-    target: 'https://github.com/chentsulin/awesome-graphql#readme'
-    ownLabels: ['Miscellaneous']
-  - title: 'Laravel'
-    target: 'https://github.com/chiraggude/awesome-laravel#readme'
-    ownLabels: ['Back-End Development']
-  - title: 'choo'
-    target: 'https://github.com/choojs/awesome-choo#readme'
-    ownLabels: ['Front-End Development']
-  - title: 'Codeface'
-    target: 'https://github.com/chrissimpkins/codeface#readme'
-    ownLabels: ['Media']
-  - title: 'Selenium'
-    target: 'https://github.com/christian-bromann/awesome-selenium#readme'
-    ownLabels: ['Testing']
-  - title: 'Continuous Integration and Continuous Delivery'
-    target: 'https://github.com/cicdops/awesome-ciandcd#readme'
-    ownLabels: ['Miscellaneous']
-  - title: 'Music'
-    target: 'https://github.com/ciconia/awesome-music#readme'
-    ownLabels: ['Media']
-  - title: 'Tools of the Trade'
-    target: 'https://github.com/cjbarber/ToolsOfTheTrade#readme'
-    ownLabels: ['Business']
-  - title: 'iOS UI'
-    target: 'https://github.com/cjwirth/awesome-ios-ui#readme'
-    ownLabels: ['Front-End Development']
-  - title: 'Building Blocks for Web Apps'
-    target: 'https://github.com/componently-com/awesome-building-blocks-for-web-apps#readme'
-    ownLabels: ['Front-End Development']
-  - title: 'Git Hooks'
-    target: 'https://github.com/compscilauren/awesome-git-hooks#readme'
-    ownLabels: ['Development Environment']
-  - title: 'Coq'
-    target: 'https://github.com/coq-community/awesome-coq#readme'
-    ownLabels: ['Programming Languages']
-  - title: 'Fuzzing'
-    target: 'https://github.com/cpuu/awesome-fuzzing#readme'
-    ownLabels: ['Security']
-  - title: 'Craft CMS'
-    target: 'https://github.com/craftcms/awesome#readme'
-    ownLabels: ['Content Management Systems']
-  - title: 'For Girls'
-    target: 'https://github.com/cristianoliveira/awesome4girls#readme'
-    ownLabels: ['Miscellaneous']
-  - title: 'Answers'
-    target: 'https://github.com/cyberglot/awesome-answers#readme'
-    ownLabels: ['Miscellaneous']
-  - title: 'Cycle.js'
-    target: 'https://github.com/cyclejs-community/awesome-cyclejs#readme'
-    ownLabels: ['Front-End Development']
-  - title: 'Cytodata'
-    target: 'https://github.com/cytodata/awesome-cytodata#readme'
-    ownLabels: ['Miscellaneous']
-  - title: 'RethinkDB'
-    target: 'https://github.com/d3viant0ne/awesome-rethinkdb#readme'
-    ownLabels: ['Databases']
-  - title: 'SQLAlchemy'
-    target: 'https://github.com/dahlia/awesome-sqlalchemy#readme'
-    ownLabels: ['Databases']
-  - title: 'Bioinformatics'
-    target: 'https://github.com/danielecook/Awesome-Bioinformatics#readme'
-    ownLabels: ['Miscellaneous']
-  - title: 'Creative Tech Events'
-    target: 'https://github.com/danvoyce/awesome-creative-tech-events#readme'
-    ownLabels: ['Events']
-  - title: 'Go Books'
-    target: 'https://github.com/dariubs/GoBooks#readme'
-    ownLabels: ['Books']
-  - title: 'Site Reliability Engineering'
-    target: 'https://github.com/dastergon/awesome-sre#readme'
-    ownLabels: ['Miscellaneous']
-  - title: 'Spanish'
-    target: 'https://github.com/dav009/awesome-spanish-nlp#readme'
-    ownLabels: ['Computer Science']
-  - title: 'Hacking Spots'
-    target: 'https://github.com/daviddias/awesome-hacking-locations#readme'
-    ownLabels: ['Miscellaneous']
-  - title: 'Web Performance Optimization'
-    target: 'https://github.com/davidsonfellipe/awesome-wpo#readme'
-    ownLabels: ['Front-End Development']
-  - title: 'Scalability'
-    target: 'https://github.com/davidtheclark/scalable-css-reading-list#readme'
-    ownLabels: ['Front-End Development']
-  - title: 'GIF'
-    target: 'https://github.com/davisonio/awesome-gif#readme'
-    ownLabels: ['Media']
-  - title: 'IRC'
-    target: 'https://github.com/davisonio/awesome-irc#readme'
-    ownLabels: ['Miscellaneous']
-  - title: 'Web Typography'
-    target: 'https://github.com/deanhume/typography#readme'
-    ownLabels: ['Front-End Development']
-  - title: 'JVM'
-    target: 'https://github.com/deephacks/awesome-jvm#readme'
-    ownLabels: ['Platforms']
-  - title: 'Product Management'
-    target: 'https://github.com/dend/awesome-product-management#readme'
-    ownLabels: ['Learn']
-  - title: 'Deno'
-    target: 'https://github.com/denolib/awesome-deno#readme'
-    ownLabels: ['Platforms']
-  - title: 'Alfred Workflows'
-    target: 'https://github.com/derimagia/awesome-alfred-workflows#readme'
-    ownLabels: ['Development Environment']
-  - title: 'Vala'
-    target: 'https://github.com/desiderantes/awesome-vala#readme'
-    ownLabels: ['Programming Languages']
-  - title: 'Quantum Computing'
-    target: 'https://github.com/desireevl/awesome-quantum-computing#readme'
-    ownLabels: ['Computer Science']
-  - title: 'PostgreSQL'
-    target: 'https://github.com/dhamaniasad/awesome-postgres#readme'
-    ownLabels: ['Databases']
-  - title: 'HTML5'
-    target: 'https://github.com/diegocard/awesome-html5#readme'
-    ownLabels: ['Front-End Development']
-  - title: 'Sketch'
-    target: 'https://github.com/diessica/awesome-sketch#readme'
-    ownLabels: ['Miscellaneous']
-  - title: 'KnockoutJS'
-    target: 'https://github.com/dnbard/awesome-knockout#readme'
-    ownLabels: ['Front-End Development']
-  - title: 'Text Editing'
-    target: 'https://github.com/dok/awesome-text-editing#readme'
-    ownLabels: ['Front-End Development']
-  - title: 'OKR Methodology'
-    target: 'https://github.com/domenicosolazzo/awesome-okr#readme'
-    ownLabels: ['Business']
-  - title: 'Amazon Web Services'
-    target: 'https://github.com/donnemartin/awesome-aws#readme'
-    ownLabels: ['Platforms']
-  - title: 'Mental Health'
-    target: 'https://github.com/dreamingechoes/awesome-mental-health#readme'
-    ownLabels: ['Miscellaneous']
-  - title: 'Sublime Text'
-    target: 'https://github.com/dreikanter/sublime-bookmarks#readme'
-    ownLabels: ['Editors']
-  - title: 'Tools for Activism'
-    target: 'https://github.com/drewrwilson/toolsforactivism#readme'
-    ownLabels: ['Miscellaneous']
-  - title: 'Textpattern'
-    target: 'https://github.com/drmonkeyninja/awesome-textpattern#readme'
-    ownLabels: ['Content Management Systems']
-  - title: 'Erlang'
-    target: 'https://github.com/drobakowski/awesome-erlang#readme'
-    ownLabels: ['Programming Languages']
-  - title: 'Empirical Software Engineering'
-    target: 'https://github.com/dspinellis/awesome-msr#readme'
-    ownLabels: ['Computer Science']
-  - title: 'ESLint'
-    target: 'https://github.com/dustinspecker/awesome-eslint#readme'
-    ownLabels: ['Programming Languages']
-  - title: 'Citizen Science'
-    target: 'https://github.com/dylanrees/citizen-science#readme'
-    ownLabels: ['Miscellaneous']
-  - title: 'Frontend Development'
-    target: 'https://github.com/dypsilon/frontend-dev-bookmarks#readme'
-    ownLabels: ['Platforms']
-  - title: 'Q#'
-    target: 'https://github.com/ebraminio/awesome-qsharp#readme'
-    ownLabels: ['Programming Languages']
-  - title: 'Broadcasting'
-    target: 'https://github.com/ebu/awesome-broadcasting#readme'
-    ownLabels: ['Media']
-  - title: 'Parasite'
-    target: 'https://github.com/ecohealthalliance/awesome-parasite#readme'
-    ownLabels: ['Miscellaneous']
-  - title: 'Board Games'
-    target: 'https://github.com/edm00se/awesome-board-games#readme'
-    ownLabels: ['Miscellaneous']
-  - title: 'Speech and Natural Language Processing'
-    target: 'https://github.com/edobashira/speech-language-processing#readme'
-    ownLabels: ['Computer Science']
-  - title: 'LaTeX'
-    target: 'https://github.com/egeerardyn/awesome-LaTeX#readme'
-    ownLabels: ['Miscellaneous']
-  - title: 'RxJava'
-    target: 'https://github.com/eleventigers/awesome-rxjava#readme'
-    ownLabels: ['Programming Languages']
-  - title: 'Game Development'
-    target: 'https://github.com/ellisonleao/magictools#readme'
-    ownLabels: ['Gaming']
-  - title: 'Emacs'
-    target: 'https://github.com/emacs-tw/awesome-emacs#readme'
-    ownLabels: ['Editors']
-  - title: 'Ember'
-    target: 'https://github.com/ember-community-russia/awesome-ember#readme'
-    ownLabels: ['Front-End Development']
-  - title: 'Research Tools'
-    target: 'https://github.com/emptymalei/awesome-research#readme'
-    ownLabels: ['Miscellaneous']
-  - title: 'React'
-    target: 'https://github.com/enaqx/awesome-react#readme'
-    ownLabels: ['Front-End Development']
-  - title: 'Algorithm Visualizations'
-    target: 'https://github.com/enjalot/algovis#readme'
-    ownLabels: ['Theory']
-  - title: 'NoSQL Guides'
-    target: 'https://github.com/erictleung/awesome-nosql-guides#readme'
-    ownLabels: ['Databases']
-  - title: 'Computational Neuroscience'
-    target: 'https://github.com/eselkin/awesome-computational-neuroscience#readme'
-    ownLabels: ['Higher Education']
-  - title: 'OpenGL'
-    target: 'https://github.com/eug/awesome-opengl#readme'
-    ownLabels: ['Miscellaneous']
-  - title: 'ChatOps'
-    target: 'https://github.com/exAspArk/awesome-chatops#readme'
-    ownLabels: ['Miscellaneous']
-  - title: 'Relay'
-    target: 'https://github.com/expede/awesome-relay#readme'
-    ownLabels: ['Front-End Development']
-  - title: 'Cybersecurity Blue Team'
-    target: 'https://github.com/fabacab/awesome-cybersecurity-blueteam#readme'
-    ownLabels: ['Security']
-  - title: 'Lockpicking'
-    target: 'https://github.com/fabacab/awesome-lockpicking#readme'
-    ownLabels: ['Security']
-  - title: 'Scientific Audio'
-    target: 'https://github.com/faroit/awesome-python-scientific-audio#readme'
-    ownLabels: ['Programming Languages']
-  - title: 'Data Visualization'
-    target: 'https://github.com/fasouto/awesome-dataviz#readme'
-    ownLabels: ['Miscellaneous']
-  - title: 'nginx'
-    target: 'https://github.com/fcambus/nginx-resources#readme'
-    ownLabels: ['Back-End Development']
-  - title: 'Mad Science npm Packages'
-    target: 'https://github.com/feross/awesome-mad-science#readme'
-    ownLabels: ['Programming Languages']
-  - title: 'C/C++'
-    target: 'https://github.com/fffaraz/awesome-cpp#readme'
-    ownLabels: ['Programming Languages']
-  - title: 'Communities'
-    target: 'https://github.com/filipelinhares/awesome-slack#readme'
-    ownLabels: ['Work']
-  - title: 'Embedded and IoT Security'
-    target: 'https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme'
-    ownLabels: ['Security']
-  - title: 'Robot Operating System 2.0'
-    target: 'https://github.com/fkromer/awesome-ros2#readme'
-    ownLabels: ['Platforms']
-  - title: 'Flame'
-    target: 'https://github.com/flame-engine/awesome-flame#readme'
-    ownLabels: ['Gaming']
-  - title: 'Motion UI Design'
-    target: 'https://github.com/fliptheweb/motion-ui-design#readme'
-    ownLabels: ['Front-End Development']
-  - title: 'Diversity'
-    target: 'https://github.com/folkswhocode/awesome-diversity#readme'
-    ownLabels: ['Miscellaneous']
-  - title: 'KDE'
-    target: 'https://github.com/francoism90/awesome-kde#readme'
-    ownLabels: ['Platforms']
-  - title: 'WebExtensions'
-    target: 'https://github.com/fregante/Awesome-WebExtensions#readme'
-    ownLabels: ['Platforms']
-  - title: 'Home Assistant'
-    target: 'https://github.com/frenck/awesome-home-assistant#readme'
-    ownLabels: ['Platforms']
-  - title: 'CakePHP'
-    target: 'https://github.com/friendsofcake/awesome-cakephp#readme'
-    ownLabels: ['Back-End Development']
-  - title: 'Education'
-    target: 'https://github.com/fukuball/Awesome-Laravel-Education#readme'
-    ownLabels: ['Back-End Development']
-  - title: 'Fuse'
-    target: 'https://github.com/fuse-compound/awesome-fuse#readme'
-    ownLabels: ['Platforms']
-  - title: 'Education'
-    target: 'https://github.com/gaerae/awesome-algorithms-education#readme'
-    ownLabels: ['Theory']
-  - title: 'Katas'
-    target: 'https://github.com/gamontal/awesome-katas#readme'
-    ownLabels: ['Miscellaneous']
-  - title: 'Game Boy Development'
-    target: 'https://github.com/gbdev/awesome-gbdev#readme'
-    ownLabels: ['Gaming']
-  - title: 'AI in Finance'
-    target: 'https://github.com/georgezouq/awesome-ai-in-finance#readme'
-    ownLabels: ['Computer Science']
-  - title: 'Git Tips'
-    target: 'https://github.com/git-tips/tips#readme'
-    ownLabels: ['Development Environment']
-  - title: 'Electric Guitar Specifications'
-    target: 'https://github.com/gitfrage/guitarspecs#readme'
-    ownLabels: ['Hardware']
-  - title: 'React Hooks'
-    target: 'https://github.com/glauberfc/awesome-react-hooks#readme'
-    ownLabels: ['Front-End Development']
-  - title: 'Rails'
-    target: 'https://github.com/gramantin/awesome-rails#readme'
-    ownLabels: ['Back-End Development']
-  - title: 'Naming'
-    target: 'https://github.com/gruhn/awesome-naming#readme'
-    ownLabels: ['Miscellaneous']
-  - title: 'Education'
-    target: 'https://github.com/guillaume-chevalier/awesome-deep-learning-resources#readme'
-    ownLabels: ['Computer Science']
-  - title: 'H2O'
-    target: 'https://github.com/h2oai/awesome-h2o#readme'
-    ownLabels: ['Computer Science']
-  - title: 'Elixir'
-    target: 'https://github.com/h4cc/awesome-elixir#readme'
-    ownLabels: ['Programming Languages']
-  - title: 'Perl'
-    target: 'https://github.com/hachiojipm/awesome-perl#readme'
-    ownLabels: ['Programming Languages']
-  - title: 'Mind Expanding Books'
-    target: 'https://github.com/hackerkid/Mind-Expanding-Books#readme'
-    ownLabels: ['Books']
-  - title: 'Bots'
-    target: 'https://github.com/hackerkid/bots#readme'
-    ownLabels: ['Miscellaneous']
-  - title: 'Dive into Machine Learning'
-    target: 'https://github.com/hangtwenty/dive-into-machine-learning#readme'
-    ownLabels: ['Learn']
-  - title: 'ClojureScript'
-    target: 'https://github.com/hantuzun/awesome-clojurescript#readme'
-    ownLabels: ['Programming Languages']
-  - title: 'Information Retrieval'
-    target: 'https://github.com/harpribot/awesome-information-retrieval#readme'
-    ownLabels: ['Computer Science']
-  - title: 'SaltStack'
-    target: 'https://github.com/hbokh/awesome-saltstack#readme'
-    ownLabels: ['Miscellaneous']
-  - title: 'WordPress-Gatsby'
-    target: 'https://github.com/henrikwirth/awesome-wordpress-gatsby#readme'
-    ownLabels: ['Front-End Development']
-  - title: 'Command-Line'
-    target: 'https://github.com/herrbischoff/awesome-macos-command-line#readme'
-    ownLabels: ['Platforms']
-  - title: 'Domain-Driven Design'
-    target: 'https://github.com/heynickc/awesome-ddd#readme'
-    ownLabels: ['Miscellaneous']
-  - title: 'Chess'
-    target: 'https://github.com/hkirat/awesome-chess#readme'
-    ownLabels: ['Gaming']
-  - title: 'MQTT'
-    target: 'https://github.com/hobbyquaker/awesome-mqtt#readme'
-    ownLabels: ['Miscellaneous']
-  - title: 'Homematic'
-    target: 'https://github.com/homematic-community/awesome-homematic#readme'
-    ownLabels: ['Miscellaneous']
-  - title: 'Gems'
-    target: 'https://github.com/hothero/awesome-rails-gem#readme'
-    ownLabels: ['Back-End Development']
-  - title: 'Education'
-    target: 'https://github.com/hsavit1/Awesome-Swift-Education#readme'
-    ownLabels: ['Programming Languages']
-  - title: 'Cheminformatics'
-    target: 'https://github.com/hsiaoyi0504/awesome-cheminformatics#readme'
-    ownLabels: ['Miscellaneous']
-  - title: 'Open Source Documents'
-    target: 'https://github.com/hubtee/awesome-opensource-documents#readme'
-    ownLabels: ['Media']
-  - title: 'Humane Technology'
-    target: 'https://github.com/humanetech-community/awesome-humane-tech#readme'
-    ownLabels: ['Miscellaneous']
-  - title: 'Game Talks'
-    target: 'https://github.com/hzoo/awesome-gametalks#readme'
-    ownLabels: ['Gaming']
-  - title: 'macOS'
-    target: 'https://github.com/iCHAIT/awesome-macOS#readme'
-    ownLabels: ['Platforms']
-  - title: 'Vagrant'
-    target: 'https://github.com/iJackUA/awesome-vagrant#readme'
-    ownLabels: ['Back-End Development']
-  - title: 'Learning'
-    target: 'https://github.com/iamericfletcher/awesome-r-learning-resources#readme'
-    ownLabels: ['Programming Languages']
-  - title: 'Heroku'
-    target: 'https://github.com/ianstormtaylor/awesome-heroku#readme'
-    ownLabels: ['Platforms']
-  - title: 'Open Source Photography'
-    target: 'https://github.com/ibaaj/awesome-OpenSourcePhotography#readme'
-    ownLabels: ['Miscellaneous']
-  - title: 'Bitcoin'
-    target: 'https://github.com/igorbarinov/awesome-bitcoin#readme'
-    ownLabels: ['Decentralized Systems']
-  - title: 'Data Engineering'
-    target: 'https://github.com/igorbarinov/awesome-data-engineering#readme'
-    ownLabels: ['Big Data']
-  - title: 'Web Archiving'
-    target: 'https://github.com/iipc/awesome-web-archiving#readme'
-    ownLabels: ['Miscellaneous']
-  - title: 'Events in Italy'
-    target: 'https://github.com/ildoc/awesome-italy-events#readme'
-    ownLabels: ['Events']
-  - title: 'inspectIT'
-    target: 'https://github.com/inspectit-labs/awesome-inspectit#readme'
-    ownLabels: ['Miscellaneous']
-  - title: 'IPFS'
-    target: 'https://github.com/ipfs/awesome-ipfs#readme'
-    ownLabels: ['Platforms']
-  - title: 'Cloudflare'
-    target: 'https://github.com/irazasyed/awesome-cloudflare#readme'
-    ownLabels: ['Platforms']
-  - title: 'Roslyn'
-    target: 'https://github.com/ironcev/awesome-roslyn#readme'
-    ownLabels: ['Platforms']
-  - title: 'Creative Technology'
-    target: 'https://github.com/j0hnm4r5/awesome-creative-technology#readme'
-    ownLabels: ['Work']
-  - title: 'Composer'
-    target: 'https://github.com/jakoch/awesome-composer#readme'
-    ownLabels: ['Programming Languages']
-  - title: 'PowerShell'
-    target: 'https://github.com/janikvonrotz/awesome-powershell#readme'
-    ownLabels: ['Development Environment']
-  - title: 'Vehicle Security and Car Hacking'
-    target: 'https://github.com/jaredthecoder/awesome-vehicle-security#readme'
-    ownLabels: ['Security']
-  - title: 'Apps'
-    target: 'https://github.com/jaywcjlove/awesome-mac#readme'
-    ownLabels: ['Platforms']
-  - title: 'Computer Vision'
-    target: 'https://github.com/jbhuang0604/awesome-computer-vision#readme'
-    ownLabels: ['Computer Science']
-  - title: 'Progressive Enhancement'
-    target: 'https://github.com/jbmoelker/progressive-enhancement-resources#readme'
-    ownLabels: ['Front-End Development']
-  - title: 'Datasets'
-    target: 'https://github.com/jdorfman/awesome-json-datasets#readme'
-    ownLabels: ['Miscellaneous']
-  - title: 'PostCSS'
-    target: 'https://github.com/jdrgomes/awesome-postcss#readme'
-    ownLabels: ['Front-End Development']
-  - title: 'Yew'
-    target: 'https://github.com/jetli/awesome-yew#readme'
-    ownLabels: ['Front-End Development']
-  - title: 'Idris'
-    target: 'https://github.com/joaomilho/awesome-idris#readme'
-    ownLabels: ['Programming Languages']
-  - title: 'Ad-Free'
-    target: 'https://github.com/johnjago/awesome-ad-free#readme'
-    ownLabels: ['Miscellaneous']
-  - title: 'Free Software'
-    target: 'https://github.com/johnjago/awesome-free-software#readme'
-    ownLabels: ['Miscellaneous']
-  - title: 'Theravada'
-    target: 'https://github.com/johnjago/awesome-theravada#readme'
-    ownLabels: ['Miscellaneous']
-  - title: 'Uncopyright'
-    target: 'https://github.com/johnjago/awesome-uncopyright#readme'
-    ownLabels: ['Miscellaneous']
-  - title: 'Code Review'
-    target: 'https://github.com/joho/awesome-code-review#readme'
-    ownLabels: ['Work']
-  - title: 'Emails'
-    target: 'https://github.com/jonathandion/awesome-emails#readme'
-    ownLabels: ['Front-End Development']
-  - title: 'Dev Env'
-    target: 'https://github.com/jondot/awesome-devenv#readme'
-    ownLabels: ['Development Environment']
-  - title: 'React Native'
-    target: 'https://github.com/jondot/awesome-react-native#readme'
-    ownLabels: ['Platforms']
-  - title: 'DigitalOcean'
-    target: 'https://github.com/jonleibowitz/awesome-digitalocean#readme'
-    ownLabels: ['Platforms']
-  - title: 'Fish'
-    target: 'https://github.com/jorgebucaran/awesome-fish#readme'
-    ownLabels: ['Development Environment']
-  - title: 'Hyperapp'
-    target: 'https://github.com/jorgebucaran/awesome-hyperapp#readme'
-    ownLabels: ['Front-End Development']
-  - title: 'Machine Learning'
-    target: 'https://github.com/josephmisiti/awesome-machine-learning#readme'
-    ownLabels: ['Computer Science']
-  - title: 'Firebase'
-    target: 'https://github.com/jthegedus/awesome-firebase#readme'
-    ownLabels: ['Platforms']
-  - title: 'TensorFlow'
-    target: 'https://github.com/jtoy/awesome-tensorflow#readme'
-    ownLabels: ['Computer Science']
-  - title: 'Productivity'
-    target: 'https://github.com/jyguyomarch/awesome-productivity#readme'
-    ownLabels: ['Work']
-  - title: 'Food'
-    target: 'https://github.com/jzarca01/awesome-food#readme'
-    ownLabels: ['Miscellaneous']
-  - title: 'Terminals Are Sexy'
-    target: 'https://github.com/k4m4/terminals-are-sexy#readme'
-    ownLabels: ['Development Environment']
-  - title: 'k6'
-    target: 'https://github.com/k6io/awesome-k6#readme'
-    ownLabels: ['Testing']
-  - title: 'Healthcare'
-    target: 'https://github.com/kakoni/awesome-healthcare#readme'
-    ownLabels: ['Miscellaneous']
-  - title: 'Speakers'
-    target: 'https://github.com/karlhorky/awesome-speakers#readme'
-    ownLabels: ['Miscellaneous']
-  - title: 'Learn to Program'
-    target: 'https://github.com/karlhorky/learn-to-program#readme'
-    ownLabels: ['Learn']
-  - title: 'Groovy'
-    target: 'https://github.com/kdabir/awesome-groovy#readme'
-    ownLabels: ['Programming Languages']
-  - title: 'Engineering Team Management'
-    target: 'https://github.com/kdeldycke/awesome-engineering-team-management#readme'
-    ownLabels: ['Business']
-  - title: 'Falsehood'
-    target: 'https://github.com/kdeldycke/awesome-falsehood#readme'
-    ownLabels: ['Miscellaneous']
-  - title: 'Software Engineering Blogs'
-    target: 'https://github.com/kilimchoi/engineering-blogs#readme'
-    ownLabels: ['Miscellaneous']
-  - title: 'Electronics'
-    target: 'https://github.com/kitspace/awesome-electronics#readme'
-    ownLabels: ['Hardware']
-  - title: 'Deep Vision'
-    target: 'https://github.com/kjw0612/awesome-deep-vision#readme'
-    ownLabels: ['Computer Science']
-  - title: 'Imba'
-    target: 'https://github.com/koolamusic/awesome-imba#readme'
-    ownLabels: ['Programming Languages']
-  - title: 'Haskell'
-    target: 'https://github.com/krispo/awesome-haskell#readme'
-    ownLabels: ['Programming Languages']
-  - title: 'Data Science'
-    target: 'https://github.com/krzjoa/awesome-python-data-science#readme'
-    ownLabels: ['Programming Languages']
-  - title: 'Radio'
-    target: 'https://github.com/kyleterry/awesome-radio#readme'
-    ownLabels: ['Miscellaneous']
-  - title: 'Scala'
-    target: 'https://github.com/lauris/awesome-scala#readme'
-    ownLabels: ['Programming Languages']
-  - title: 'Storybook'
-    target: 'https://github.com/lauthieb/awesome-storybook#readme'
-    ownLabels: ['Front-End Development']
-  - title: 'Open Source Games'
-    target: 'https://github.com/leereilly/games#readme'
-    ownLabels: ['Gaming']
-  - title: 'Game Datasets'
-    target: 'https://github.com/leomaurodesenv/game-datasets#readme'
-    ownLabels: ['Gaming']
-  - title: 'Free Software Testing Books'
-    target: 'https://github.com/ligurio/awesome-software-quality#readme'
-    ownLabels: ['Books']
-  - title: 'Core ML Models'
-    target: 'https://github.com/likedan/Awesome-CoreML-Models#readme'
-    ownLabels: ['Computer Science']
-  - title: 'Roadmaps'
-    target: 'https://github.com/liuchong/awesome-roadmaps#readme'
-    ownLabels: ['Learn']
-  - title: 'Competitive Programming'
-    target: 'https://github.com/lnishan/awesome-competitive-programming#readme'
-    ownLabels: ['Theory']
-  - title: 'LÖVE'
-    target: 'https://github.com/love2d-community/awesome-love2d#readme'
-    ownLabels: ['Gaming']
-  - title: 'Tips'
-    target: 'https://github.com/loverajoel/jstips#readme'
-    ownLabels: ['Programming Languages']
-  - title: 'Contexture'
-    target: 'https://github.com/ltchris/awesome-contexture#readme'
-    ownLabels: ['Databases']
-  - title: 'Functional Programming'
-    target: 'https://github.com/lucasviola/awesome-functional-programming#readme'
-    ownLabels: ['Computer Science']
-  - title: 'Tech Videos'
-    target: 'https://github.com/lucasviola/awesome-tech-videos#readme'
-    ownLabels: ['Learn']
-  - title: 'Remote Jobs'
-    target: 'https://github.com/lukasz-madon/awesome-remote-job#readme'
-    ownLabels: ['Work']
-  - title: 'Web Tools'
-    target: 'https://github.com/lvwzhen/tools#readme'
-    ownLabels: ['Front-End Development']
-  - title: 'Non-Financial Blockchain'
-    target: 'https://github.com/machinomy/awesome-non-financial-blockchain#readme'
-    ownLabels: ['Decentralized Systems']
-  - title: 'Digital History'
-    target: 'https://github.com/maehr/awesome-digital-history#readme'
-    ownLabels: ['Higher Education']
-  - title: 'Salesforce'
-    target: 'https://github.com/mailtoharshit/awesome-salesforce#readme'
-    ownLabels: ['Platforms']
-  - title: 'Streaming'
-    target: 'https://github.com/manuzhang/awesome-streaming#readme'
-    ownLabels: ['Big Data']
-  - title: 'Search Engine Optimization'
-    target: 'https://github.com/marcobiedermann/search-engine-optimization#readme'
-    ownLabels: ['Theory']
-  - title: 'TensorFlow Lite'
-    target: 'https://github.com/margaretmz/awesome-tensorflow-lite#readme'
-    ownLabels: ['Computer Science']
-  - title: 'InfluxDB'
-    target: 'https://github.com/mark-rushakoff/awesome-influxdb#readme'
-    ownLabels: ['Databases']
-  - title: 'Ruby'
-    target: 'https://github.com/markets/awesome-ruby#readme'
-    ownLabels: ['Programming Languages']
-  - title: 'Jupyter'
-    target: 'https://github.com/markusschanta/awesome-jupyter#readme'
-    ownLabels: ['Miscellaneous']
-  - title: 'REST'
-    target: 'https://github.com/marmelab/awesome-rest#readme'
-    ownLabels: ['Miscellaneous']
-  - title: 'Pinned Gists'
-    target: 'https://github.com/matchai/awesome-pinned-gists#readme'
-    ownLabels: ['Development Environment']
-  - title: 'Web Components'
-    target: 'https://github.com/mateusortiz/webcomponents-the-right-way#readme'
-    ownLabels: ['Front-End Development']
-  - title: 'Readme'
-    target: 'https://github.com/matiassingers/awesome-readme#readme'
-    ownLabels: ['Miscellaneous']
-  - title: 'Slack'
-    target: 'https://github.com/matiassingers/awesome-slack#readme'
-    ownLabels: ['Work']
-  - title: 'Swift'
-    target: 'https://github.com/matteocrippa/awesome-swift#readme'
-    ownLabels: ['Programming Languages']
-  - title: 'Speaking'
-    target: 'https://github.com/matteofigus/awesome-speaking#readme'
-    ownLabels: ['Learn']
-  - title: 'Maintenance Modules'
-    target: 'https://github.com/maxogden/maintenance-modules#readme'
-    ownLabels: ['Programming Languages']
-  - title: 'MicroPython'
-    target: 'https://github.com/mcauser/awesome-micropython#readme'
-    ownLabels: ['Programming Languages']
-  - title: 'Atom'
-    target: 'https://github.com/mehcode/awesome-atom#readme'
-    ownLabels: ['Editors']
-  - title: 'Incident Response'
-    target: 'https://github.com/meirwah/awesome-incident-response#readme'
-    ownLabels: ['Security']
-  - title: 'Boilerplate Projects'
-    target: 'https://github.com/melvin0008/awesome-projects-boilerplates#readme'
-    ownLabels: ['Miscellaneous']
-  - title: 'Indie'
-    target: 'https://github.com/mezod/awesome-indie#readme'
-    ownLabels: ['Business']
-  - title: 'Microservices'
-    target: 'https://github.com/mfornos/awesome-microservices#readme'
-    ownLabels: ['Miscellaneous']
-  - title: 'Database Tools'
-    target: 'https://github.com/mgramin/awesome-db-tools#readme'
-    ownLabels: ['Databases']
-  - title: 'Vim'
-    target: 'https://github.com/mhinz/vim-galore#readme'
-    ownLabels: ['Editors']
-  - title: 'Discord Communities'
-    target: 'https://github.com/mhxion/awesome-discord-communities#readme'
-    ownLabels: ['Gaming']
-  - title: 'CSS Learning'
-    target: 'https://github.com/micromata/awesome-css-learning#readme'
-    ownLabels: ['Learn']
-  - title: 'JavaScript Learning'
-    target: 'https://github.com/micromata/awesome-javascript-learning#readme'
-    ownLabels: ['Learn']
-  - title: 'Amazon Alexa'
-    target: 'https://github.com/miguelmota/awesome-amazon-alexa#readme'
-    ownLabels: ['Platforms']
-  - title: 'Dev Fun'
-    target: 'https://github.com/mislavcimpersak/awesome-dev-fun#readme'
-    ownLabels: ['Miscellaneous']
-  - title: 'FastAPI'
-    target: 'https://github.com/mjhea0/awesome-fastapi#readme'
-    ownLabels: ['Back-End Development']
-  - title: 'Flask'
-    target: 'https://github.com/mjhea0/awesome-flask#readme'
-    ownLabels: ['Back-End Development']
-  - title: 'Places to Post Your Startup'
-    target: 'https://github.com/mmccaff/PlacesToPostYourStartup#readme'
-    ownLabels: ['Business']
-  - title: 'Services Engineering'
-    target: 'https://github.com/mmcgrana/services-engineering#readme'
-    ownLabels: ['Miscellaneous']
-  - title: 'TinkerPop'
-    target: 'https://github.com/mohataher/awesome-tinkerpop#readme'
-    ownLabels: ['Databases']
-  - title: 'Visual Regression Testing'
-    target: 'https://github.com/mojoaxel/awesome-regression-testing#readme'
-    ownLabels: ['Testing']
-  - title: 'RubyMotion'
-    target: 'https://github.com/motion-open-source/awesome-rubymotion#readme'
-    ownLabels: ['Platforms']
-  - title: 'SSH'
-    target: 'https://github.com/moul/awesome-ssh#readme'
-    ownLabels: ['Development Environment']
-  - title: 'Credit Modeling'
-    target: 'https://github.com/mourarthur/awesome-credit-modeling#readme'
-    ownLabels: ['Miscellaneous']
-  - title: 'Waves'
-    target: 'https://github.com/msmolyakov/awesome-waves#readme'
-    ownLabels: ['Decentralized Systems']
-  - title: 'Playwright'
-    target: 'https://github.com/mxschmitt/awesome-playwright#readme'
-    ownLabels: ['Testing']
-  - title: 'Mobile Web Development'
-    target: 'https://github.com/myshov/awesome-mobile-web-development#readme'
-    ownLabels: ['Front-End Development']
-  - title: 'Material-UI'
-    target: 'https://github.com/nadunindunil/awesome-material-ui#readme'
-    ownLabels: ['Front-End Development']
-  - title: 'Open Source Maintainers'
-    target: 'https://github.com/nayafia/awesome-maintainers#readme'
-    ownLabels: ['Miscellaneous']
-  - title: 'Neo4j'
-    target: 'https://github.com/neueda/awesome-neo4j#readme'
-    ownLabels: ['Databases']
-  - title: 'Stock Resources'
-    target: 'https://github.com/neutraltone/awesome-stock-resources#readme'
-    ownLabels: ['Media']
-  - title: 'Clean Tech'
-    target: 'https://github.com/nglgzz/awesome-clean-tech#readme'
-    ownLabels: ['Business']
-  - title: 'Web Design'
-    target: 'https://github.com/nicolesaidy/awesome-web-design#readme'
-    ownLabels: ['Miscellaneous']
-  - title: 'Draft.js'
-    target: 'https://github.com/nikgraf/awesome-draft-js#readme'
-    ownLabels: ['Front-End Development']
-  - title: 'Drupal'
-    target: 'https://github.com/nirgn975/awesome-drupal#readme'
-    ownLabels: ['Content Management Systems']
-  - title: 'Icons'
-    target: 'https://github.com/notlmn/awesome-icons#readme'
-    ownLabels: ['Media']
-  - title: 'Web Audio'
-    target: 'https://github.com/notthetup/awesome-webaudio#readme'
-    ownLabels: ['Front-End Development']
-  - title: 'Scientific Computing'
-    target: 'https://github.com/nschloe/awesome-scientific-computing#readme'
-    ownLabels: ['Miscellaneous']
-  - title: 'Database'
-    target: 'https://github.com/numetriclabz/awesome-db#readme'
-    ownLabels: ['Databases']
-  - title: 'OCaml'
-    target: 'https://github.com/ocaml-community/awesome-ocaml#readme'
-    ownLabels: ['Programming Languages']
-  - title: 'Ada/SPARK'
-    target: 'https://github.com/ohenley/awesome-ada#readme'
-    ownLabels: ['Programming Languages']
-  - title: 'CMake'
-    target: 'https://github.com/onqtam/awesome-cmake#readme'
-    ownLabels: ['Programming Languages']
-  - title: 'Analytics'
-    target: 'https://github.com/onurakpolat/awesome-analytics#readme'
-    ownLabels: ['Miscellaneous']
-  - title: 'Big Data'
-    target: 'https://github.com/onurakpolat/awesome-bigdata#readme'
-    ownLabels: ['Big Data']
-  - title: 'Open Companies'
-    target: 'https://github.com/opencompany/awesome-open-company#readme'
-    ownLabels: ['Business']
-  - title: 'Open Source Society University'
-    target: 'https://github.com/ossu/computer-science#readme'
-    ownLabels: ['Computer Science']
-  - title: 'Artificial Intelligence'
-    target: 'https://github.com/owainlewis/awesome-artificial-intelligence#readme'
-    ownLabels: ['Theory']
-  - title: 'Papers'
-    target: 'https://github.com/pFarb/awesome-crypto-papers#readme'
-    ownLabels: ['Computer Science']
-  - title: 'Web Performance Budget'
-    target: 'https://github.com/pajaydev/awesome-web-performance-budget#readme'
-    ownLabels: ['Front-End Development']
-  - title: 'PageSpeed Metrics'
-    target: 'https://github.com/palfi-ltd/awesome-pagespeed-metrics#readme'
-    ownLabels: ['Front-End Development']
-  - title: 'Papers We Love'
-    target: 'https://github.com/papers-we-love/papers-we-love#readme'
-    ownLabels: ['Theory']
-  - title: 'Application Security'
-    target: 'https://github.com/paragonie/awesome-appsec#readme'
-    ownLabels: ['Security']
-  - title: 'Honeypots'
-    target: 'https://github.com/paralax/awesome-honeypots#readme'
-    ownLabels: ['Security']
-  - title: 'Micro npm Packages'
-    target: 'https://github.com/parro-it/awesome-micro-npm-packages#readme'
-    ownLabels: ['Programming Languages']
-  - title: 'PureScript'
-    target: 'https://github.com/passy/awesome-purescript#readme'
-    ownLabels: ['Programming Languages']
-  - title: 'Recursion Schemes'
-    target: 'https://github.com/passy/awesome-recursion-schemes#readme'
-    ownLabels: ['Theory']
-  - title: 'Offline-First'
-    target: 'https://github.com/pazguille/offline-first#readme'
-    ownLabels: ['Front-End Development']
-  - title: 'Education'
-    target: 'https://github.com/pehapkari/awesome-symfony-education#readme'
-    ownLabels: ['Back-End Development']
-  - title: 'Dojo Toolkit'
-    target: 'https://github.com/petk/awesome-dojo#readme'
-    ownLabels: ['Front-End Development']
-  - title: 'jQuery'
-    target: 'https://github.com/petk/awesome-jquery#readme'
-    ownLabels: ['Front-End Development']
-  - title: 'Phalcon'
-    target: 'https://github.com/phalcon/awesome-phalcon#readme'
-    ownLabels: ['Back-End Development']
-  - title: 'Useful `.htaccess` Snippets'
-    target: 'https://github.com/phanan/htaccess#readme'
-    ownLabels: ['Back-End Development']
-  - title: 'GitHub'
-    target: 'https://github.com/phillipadsmith/awesome-github#readme'
-    ownLabels: ['Development Environment']
-  - title: 'Earth'
-    target: 'https://github.com/philsturgeon/awesome-earth#readme'
-    ownLabels: ['Miscellaneous']
-  - title: 'PICO-8'
-    target: 'https://github.com/pico-8/awesome-PICO-8#readme'
-    ownLabels: ['Gaming']
-  - title: 'PlayCanvas'
-    target: 'https://github.com/playcanvas/awesome-playcanvas#readme'
-    ownLabels: ['Gaming']
-  - title: 'Serverless Framework'
-    target: 'https://github.com/pmuens/awesome-serverless#readme'
-    ownLabels: ['Back-End Development']
-  - title: 'Framer'
-    target: 'https://github.com/podo/awesome-framer#readme'
-    ownLabels: ['Miscellaneous']
-  - title: 'University Courses'
-    target: 'https://github.com/prakhar1989/awesome-courses#readme'
-    ownLabels: ['Computer Science']
-  - title: 'Preact'
-    target: 'https://github.com/preactjs/awesome-preact#readme'
-    ownLabels: ['Front-End Development']
-  - title: 'Sustainable Technology'
-    target: 'https://github.com/protontypes/awesome-sustainable-technology#readme'
-    ownLabels: ['Higher Education']
-  - title: 'Web Security'
-    target: 'https://github.com/qazbnm456/awesome-web-security#readme'
-    ownLabels: ['Security']
-  - title: 'R'
-    target: 'https://github.com/qinwf/awesome-R#readme'
-    ownLabels: ['Programming Languages']
-  - title: 'CouchDB'
-    target: 'https://github.com/quangv/awesome-couchdb#readme'
-    ownLabels: ['Databases']
-  - title: '.NET'
-    target: 'https://github.com/quozd/awesome-dotnet#readme'
-    ownLabels: ['Platforms']
-  - title: 'Fortran'
-    target: 'https://github.com/rabbiabram/awesome-fortran#readme'
-    ownLabels: ['Programming Languages']
-  - title: 'Bluetooth Beacons'
-    target: 'https://github.com/rabschi/awesome-beacon#readme'
-    ownLabels: ['Hardware']
-  - title: 'Game Remakes'
-    target: 'https://github.com/radek-sprta/awesome-game-remakes#readme'
-    ownLabels: ['Gaming']
-  - title: 'libGDX'
-    target: 'https://github.com/rafaskb/awesome-libgdx#readme'
-    ownLabels: ['Gaming']
-  - title: 'Kubernetes'
-    target: 'https://github.com/ramitsurana/awesome-kubernetes#readme'
-    ownLabels: ['Back-End Development']
-  - title: 'MongoDB'
-    target: 'https://github.com/ramnes/awesome-mongodb#readme'
-    ownLabels: ['Databases']
-  - title: 'Canvas'
-    target: 'https://github.com/raphamorim/awesome-canvas#readme'
-    ownLabels: ['Front-End Development']
-  - title: 'Actions on Google'
-    target: 'https://github.com/ravirupareliya/awesome-actions-on-google#readme'
-    ownLabels: ['Platforms']
-  - title: 'HBase'
-    target: 'https://github.com/rayokota/awesome-hbase#readme'
-    ownLabels: ['Databases']
-  - title: 'Clojure'
-    target: 'https://github.com/razum2um/awesome-clojure#readme'
-    ownLabels: ['Programming Languages']
-  - title: 'Refinery CMS'
-    target: 'https://github.com/refinerycms-contrib/awesome-refinerycms#readme'
-    ownLabels: ['Content Management Systems']
-  - title: 'Free for Developers'
-    target: 'https://github.com/ripienaar/free-for-dev#readme'
-    ownLabels: ['Miscellaneous']
-  - title: 'Prometheus'
-    target: 'https://github.com/roaldnefs/awesome-prometheus#readme'
-    ownLabels: ['Miscellaneous']
-  - title: 'ActionScript 3'
-    target: 'https://github.com/robinrodricks/awesome-actionscript3#readme'
-    ownLabels: ['Programming Languages']
-  - title: 'Design Principles'
-    target: 'https://github.com/robinstickel/awesome-design-principles#readme'
-    ownLabels: ['Miscellaneous']
-  - title: 'Math'
-    target: 'https://github.com/rossant/awesome-math#readme'
-    ownLabels: ['Theory']
-  - title: 'Malware Analysis'
-    target: 'https://github.com/rshipp/awesome-malware-analysis#readme'
-    ownLabels: ['Security']
-  - title: 'Real-Time Communications'
-    target: 'https://github.com/rtckit/awesome-rtc#readme'
-    ownLabels: ['Networking']
-  - title: 'Rust'
-    target: 'https://github.com/rust-unofficial/awesome-rust#readme'
-    ownLabels: ['Programming Languages']
-  - title: 'Material Design'
-    target: 'https://github.com/sachin1092/awesome-material#readme'
-    ownLabels: ['Front-End Development']
-  - title: 'Backbone'
-    target: 'https://github.com/sadcitizen/awesome-backbone#readme'
-    ownLabels: ['Front-End Development']
-  - title: 'Marionette.js'
-    target: 'https://github.com/sadcitizen/awesome-marionette#readme'
-    ownLabels: ['Front-End Development']
-  - title: 'Security'
-    target: 'https://github.com/sbilly/awesome-security#readme'
-    ownLabels: ['Security']
-  - title: 'WP-CLI'
-    target: 'https://github.com/schlessera/awesome-wp-cli#readme'
-    ownLabels: ['Miscellaneous']
-  - title: 'Steam'
-    target: 'https://github.com/scholtzm/awesome-steam#readme'
-    ownLabels: ['Miscellaneous']
-  - title: 'Software-Defined Networking'
-    target: 'https://github.com/sdnds-tw/awesome-sdn#readme'
-    ownLabels: ['Networking']
-  - title: 'GitHub Actions'
-    target: 'https://github.com/sdras/awesome-actions#readme'
-    ownLabels: ['Development Environment']
-  - title: 'Splunk'
-    target: 'https://github.com/sduff/awesome-splunk#readme'
-    ownLabels: ['Big Data']
-  - title: 'ColdFusion'
-    target: 'https://github.com/seancoyne/awesome-coldfusion#readme'
-    ownLabels: ['Programming Languages']
-  - title: 'CSV'
-    target: 'https://github.com/secretGeek/awesomeCSV#readme'
-    ownLabels: ['Miscellaneous']
-  - title: 'Seed'
-    target: 'https://github.com/seed-rs/awesome-seed-rs#readme'
-    ownLabels: ['Front-End Development']
-  - title: 'Web Animation'
-    target: 'https://github.com/sergey-pimenov/awesome-web-animation#readme'
-    ownLabels: ['Front-End Development']
-  - title: 'Open Source Apps'
-    target: 'https://github.com/serhii-londar/open-source-mac-os-apps#readme'
-    ownLabels: ['Platforms']
-  - title: 'Question Answering'
-    target: 'https://github.com/seriousran/awesome-qa#readme'
-    ownLabels: ['Computer Science']
-  - title: 'Eta'
-    target: 'https://github.com/sfischer13/awesome-eta#readme'
-    ownLabels: ['Programming Languages']
-  - title: 'Frege'
-    target: 'https://github.com/sfischer13/awesome-frege#readme'
-    ownLabels: ['Programming Languages']
-  - title: 'Ledger'
-    target: 'https://github.com/sfischer13/awesome-ledger#readme'
-    ownLabels: ['Miscellaneous']
-  - title: 'Elixir Books'
-    target: 'https://github.com/sger/ElixirBooks#readme'
-    ownLabels: ['Books']
-  - title: 'Creative Commons Media'
-    target: 'https://github.com/shime/creative-commons-media#readme'
-    ownLabels: ['Media']
-  - title: 'MySQL'
-    target: 'https://github.com/shlomi-noach/awesome-mysql#readme'
-    ownLabels: ['Databases']
-  - title: 'Terraform'
-    target: 'https://github.com/shuaibiyy/awesome-terraform#readme'
-    ownLabels: ['Back-End Development']
-  - title: 'Tutorials'
-    target: 'https://github.com/siboehm/awesome-learn-datascience#readme'
-    ownLabels: ['Computer Science']
-  - title: 'Software Architecture'
-    target: 'https://github.com/simskij/awesome-software-architecture#readme'
-    ownLabels: ['Miscellaneous']
-  - title: 'AMA'
-    target: 'https://github.com/sindresorhus/amas#readme'
-    ownLabels: ['Miscellaneous']
-  - title: 'Awesome'
-    target: 'https://github.com/sindresorhus/awesome#readme'
-    ownLabels: ['Miscellaneous']
-  - title: 'Electron'
-    target: 'https://github.com/sindresorhus/awesome-electron#readme'
-    ownLabels: ['Platforms']
-  - title: 'Node.js'
-    target: 'https://github.com/sindresorhus/awesome-nodejs#readme'
-    ownLabels: ['Platforms']
-  - title: 'npm'
-    target: 'https://github.com/sindresorhus/awesome-npm#readme'
-    ownLabels: ['Programming Languages']
-  - title: 'Observables'
-    target: 'https://github.com/sindresorhus/awesome-observables#readme'
-    ownLabels: ['Programming Languages']
-  - title: 'Science Fiction'
-    target: 'https://github.com/sindresorhus/awesome-scifi#readme'
-    ownLabels: ['Entertainment']
-  - title: 'TAP'
-    target: 'https://github.com/sindresorhus/awesome-tap#readme'
-    ownLabels: ['Testing']
-  - title: 'Quick Look Plugins'
-    target: 'https://github.com/sindresorhus/quick-look-plugins#readme'
-    ownLabels: ['Development Environment']
-  - title: 'Symfony'
-    target: 'https://github.com/sitepoint-editors/awesome-symfony#readme'
-    ownLabels: ['Back-End Development']
-  - title: 'WebGL'
-    target: 'https://github.com/sjfricke/awesome-webgl#readme'
-    ownLabels: ['Front-End Development']
-  - title: 'Cryptography'
-    target: 'https://github.com/sobolevn/awesome-cryptography#readme'
-    ownLabels: ['Computer Science']
-  - title: 'JavaScript'
-    target: 'https://github.com/sorrycc/awesome-javascript#readme'
-    ownLabels: ['Programming Languages']
-  - title: 'Elm'
-    target: 'https://github.com/sporto/awesome-elm#readme'
-    ownLabels: ['Programming Languages']
-  - title: 'Wagtail'
-    target: 'https://github.com/springload/awesome-wagtail#readme'
-    ownLabels: ['Content Management Systems']
-  - title: 'Stacks'
-    target: 'https://github.com/stackshareio/awesome-stacks#readme'
-    ownLabels: ['Miscellaneous']
-  - title: 'Standard Style'
-    target: 'https://github.com/standard/awesome-standard#readme'
-    ownLabels: ['Programming Languages']
-  - title: 'Browser Extensions'
-    target: 'https://github.com/stefanbuck/awesome-browser-extensions-for-github#readme'
-    ownLabels: ['Development Environment']
-  - title: 'Gideros'
-    target: 'https://github.com/stetso/awesome-gideros#readme'
-    ownLabels: ['Gaming']
-  - title: 'Git Add-ons'
-    target: 'https://github.com/stevemao/awesome-git-addons#readme'
-    ownLabels: ['Development Environment']
-  - title: 'Blockchain AI'
-    target: 'https://github.com/steven2358/awesome-blockchain-ai#readme'
-    ownLabels: ['Decentralized Systems']
-  - title: 'Connectivity Data and Reports'
-    target: 'https://github.com/stevesong/awesome-connectivity-info#readme'
-    ownLabels: ['Miscellaneous']
-  - title: 'Audiovisual'
-    target: 'https://github.com/stingalleman/awesome-audiovisual#readme'
-    ownLabels: ['Media']
-  - title: 'Answers'
-    target: 'https://github.com/stoeffel/awesome-ama-answers#readme'
-    ownLabels: ['Miscellaneous']
-  - title: 'Functional Programming'
-    target: 'https://github.com/stoeffel/awesome-fp-js#readme'
-    ownLabels: ['Programming Languages']
-  - title: 'BEM'
-    target: 'https://github.com/sturobson/BEM-resources#readme'
-    ownLabels: ['Front-End Development']
-  - title: 'Dropwizard'
-    target: 'https://github.com/stve/awesome-dropwizard#readme'
-    ownLabels: ['Back-End Development']
-  - title: 'Funny Markov Chains'
-    target: 'https://github.com/sublimino/awesome-funny-markov#readme'
-    ownLabels: ['Miscellaneous']
-  - title: 'Substrate'
-    target: 'https://github.com/substrate-developer-hub/awesome-substrate#readme'
-    ownLabels: ['Decentralized Systems']
-  - title: 'Julia'
-    target: 'https://github.com/svaksha/Julia.jl#readme'
-    ownLabels: ['Programming Languages']
-  - title: 'LIDAR'
-    target: 'https://github.com/szenergy/awesome-lidar#readme'
-    ownLabels: ['Hardware']
-  - title: 'Algorithms'
-    target: 'https://github.com/tayllan/awesome-algorithms#readme'
-    ownLabels: ['Theory']
-  - title: 'Product Design'
-    target: 'https://github.com/teoga/awesome-product-design#readme'
-    ownLabels: ['Miscellaneous']
-  - title: 'Creative Coding'
-    target: 'https://github.com/terkelg/awesome-creative-coding#readme'
-    ownLabels: ['Miscellaneous']
-  - title: 'Papers'
-    target: 'https://github.com/terryum/awesome-deep-learning-papers#readme'
-    ownLabels: ['Computer Science']
-  - title: 'Core'
-    target: 'https://github.com/thangchung/awesome-dotnet-core#readme'
-    ownLabels: ['Platforms']
-  - title: 'Linguistics'
-    target: 'https://github.com/theimpossibleastronaut/awesome-linguistics#readme'
-    ownLabels: ['Computer Science']
-  - title: 'CLI Workshoppers'
-    target: 'https://github.com/therebelrobot/awesome-workshopper#readme'
-    ownLabels: ['Learn']
-  - title: 'Raspberry Pi'
-    target: 'https://github.com/thibmaek/awesome-raspberry-pi#readme'
-    ownLabels: ['Platforms']
-  - title: 'Web Monetization'
-    target: 'https://github.com/thomasbnt/awesome-web-monetization#readme'
-    ownLabels: ['Miscellaneous']
-  - title: 'Cheat Sheet'
-    target: 'https://github.com/tiimgreen/github-cheat-sheet#readme'
-    ownLabels: ['Development Environment']
-  - title: 'Asyncio'
-    target: 'https://github.com/timofurrer/awesome-asyncio#readme'
-    ownLabels: ['Programming Languages']
-  - title: 'Scala Native'
-    target: 'https://github.com/tindzk/awesome-scala-native#readme'
-    ownLabels: ['Programming Languages']
-  - title: 'Mastodon'
-    target: 'https://github.com/tleb/awesome-mastodon#readme'
-    ownLabels: ['Decentralized Systems']
-  - title: 'GeoJSON'
-    target: 'https://github.com/tmcw/awesome-geojson#readme'
-    ownLabels: ['Miscellaneous']
-  - title: 'Pokémon'
-    target: 'https://github.com/tobiasbueschel/awesome-pokemon#readme'
-    ownLabels: ['Miscellaneous']
-  - title: 'CHIP-8'
-    target: 'https://github.com/tobiasvl/awesome-chip-8#readme'
-    ownLabels: ['Gaming']
-  - title: 'Natural Language Generation'
-    target: 'https://github.com/tokenmill/awesome-nlg#readme'
-    ownLabels: ['Computer Science']
-  - title: 'All Awesome Lists'
-    target: 'https://github.com/topics/awesome'
-    ownLabels: ['Related']
-  - title: 'Niche Job Boards'
-    target: 'https://github.com/tramcar/awesome-job-boards#readme'
-    ownLabels: ['Work']
-  - title: 'FFmpeg'
-    target: 'https://github.com/transitive-bullshit/awesome-ffmpeg#readme'
-    ownLabels: ['Media']
-  - title: 'Frameworks'
-    target: 'https://github.com/troxler/awesome-css-frameworks#readme'
-    ownLabels: ['Front-End Development']
-  - title: 'Ethereum'
-    target: 'https://github.com/ttumiel/Awesome-Ethereum#readme'
-    ownLabels: ['Decentralized Systems']
-  - title: 'FOSS for Developers'
-    target: 'https://github.com/tvvocold/FOSS-for-Dev#readme'
-    ownLabels: ['Development Environment']
-  - title: 'Typing'
-    target: 'https://github.com/typeddjango/awesome-python-typing#readme'
-    ownLabels: ['Programming Languages']
-  - title: 'Dash'
-    target: 'https://github.com/ucg8j/awesome-dash#readme'
-    ownLabels: ['Back-End Development']
-  - title: 'Tutorials'
-    target: 'https://github.com/ujjwalkarn/Machine-Learning-Tutorials#readme'
-    ownLabels: ['Computer Science']
-  - title: 'Umbraco'
-    target: 'https://github.com/umbraco-community/awesome-umbraco#readme'
-    ownLabels: ['Content Management Systems']
-  - title: 'Awesome CLI'
-    target: 'https://github.com/umutphp/awesome-cli'
-    ownLabels: ['Related']
-  - title: 'Lumen'
-    target: 'https://github.com/unicodeveloper/awesome-lumen#readme'
-    ownLabels: ['Back-End Development']
-  - title: 'Next.js'
-    target: 'https://github.com/unicodeveloper/awesome-nextjs#readme'
-    ownLabels: ['Front-End Development']
-  - title: 'ZSH Plugins'
-    target: 'https://github.com/unixorn/awesome-zsh-plugins#readme'
-    ownLabels: ['Development Environment']
-  - title: 'Playgrounds'
-    target: 'https://github.com/uraimo/Awesome-Swift-Playgrounds#readme'
-    ownLabels: ['Programming Languages']
-  - title: 'Software Patreons'
-    target: 'https://github.com/uraimo/awesome-software-patreons#readme'
-    ownLabels: ['Miscellaneous']
-  - title: 'Pyramid'
-    target: 'https://github.com/uralbash/awesome-pyramid#readme'
-    ownLabels: ['Back-End Development']
-  - title: 'Crystal'
-    target: 'https://github.com/veelenga/awesome-crystal#readme'
-    ownLabels: ['Programming Languages']
-  - title: 'Docker'
-    target: 'https://github.com/veggiemonk/awesome-docker#readme'
-    ownLabels: ['Back-End Development']
-  - title: 'Vert.x'
-    target: 'https://github.com/vert-x3/vertx-awesome#readme'
-    ownLabels: ['Back-End Development']
-  - title: 'Ripple'
-    target: 'https://github.com/vhpoet/awesome-ripple#readme'
-    ownLabels: ['Decentralized Systems']
-  - title: 'Visual Studio Code'
-    target: 'https://github.com/viatsko/awesome-vscode#readme'
-    ownLabels: ['Editors']
-  - title: 'IT Quotes'
-    target: 'https://github.com/victorlaerte/awesome-it-quotes#readme'
-    ownLabels: ['Entertainment']
-  - title: 'IBM Cloud'
-    target: 'https://github.com/victorshinya/awesome-ibmcloud#readme'
-    ownLabels: ['Platforms']
-  - title: 'Vulkan'
-    target: 'https://github.com/vinjn/awesome-vulkan#readme'
-    ownLabels: ['Miscellaneous']
-  - title: 'Social Media Share Links'
-    target: 'https://github.com/vinkla/shareable-links#readme'
-    ownLabels: ['Miscellaneous']
-  - title: 'Python'
-    target: 'https://github.com/vinta/awesome-python#readme'
-    ownLabels: ['Programming Languages']
-  - title: 'Smart TV'
-    target: 'https://github.com/vitalets/awesome-smart-tv#readme'
-    ownLabels: ['Platforms']
-  - title: 'V'
-    target: 'https://github.com/vlang/awesome-v#readme'
-    ownLabels: ['Programming Languages']
-  - title: 'Vorpal'
-    target: 'https://github.com/vorpaljs/awesome-vorpal#readme'
-    ownLabels: ['Miscellaneous']
-  - title: 'iOS'
-    target: 'https://github.com/vsouza/awesome-ios#readme'
-    ownLabels: ['Platforms']
-  - title: 'Vue.js'
-    target: 'https://github.com/vuejs/awesome-vue#readme'
-    ownLabels: ['Front-End Development']
-  - title: 'Wardley Maps'
-    target: 'https://github.com/wardley-maps-community/awesome-wardley-maps#readme'
-    ownLabels: ['Business']
-  - title: 'Android UI'
-    target: 'https://github.com/wasabeef/awesome-android-ui#readme'
-    ownLabels: ['Front-End Development']
-  - title: 'Computer History'
-    target: 'https://github.com/watson/awesome-computer-history#readme'
-    ownLabels: ['Learn']
-  - title: 'Promises'
-    target: 'https://github.com/wbinnssmith/awesome-promises#readme'
-    ownLabels: ['Programming Languages']
-  - title: 'D3'
-    target: 'https://github.com/wbkd/awesome-d3#readme'
-    ownLabels: ['Front-End Development']
-  - title: 'lit-html'
-    target: 'https://github.com/web-padawan/awesome-lit-html#readme'
-    ownLabels: ['Front-End Development']
-  - title: 'IoT & Hybrid Apps'
-    target: 'https://github.com/weblancaster/awesome-IoT-hybrid#readme'
-    ownLabels: ['Platforms']
-  - title: 'webpack'
-    target: 'https://github.com/webpack-contrib/awesome-webpack#readme'
-    ownLabels: ['Front-End Development']
-  - title: 'Dotfiles'
-    target: 'https://github.com/webpro/awesome-dotfiles#readme'
-    ownLabels: ['Development Environment']
-  - title: 'Ant Design'
-    target: 'https://github.com/websemantics/awesome-ant-design#readme'
-    ownLabels: ['Front-End Development']
-  - title: 'Audio Visualization'
-    target: 'https://github.com/willianjusten/awesome-audio-visualization#readme'
-    ownLabels: ['Media']
-  - title: 'SVG'
-    target: 'https://github.com/willianjusten/awesome-svg#readme'
-    ownLabels: ['Front-End Development']
-  - title: 'Quantified Self'
-    target: 'https://github.com/woop/awesome-quantified-self#readme'
-    ownLabels: ['Miscellaneous']
-  - title: 'Scientific Writing'
-    target: 'https://github.com/writing-resources/awesome-scientific-writing#readme'
-    ownLabels: ['Higher Education']
-  - title: 'DTrace'
-    target: 'https://github.com/xen0l/awesome-dtrace#readme'
-    ownLabels: ['Miscellaneous']
-  - title: 'TikZ'
-    target: 'https://github.com/xiaohanyu/awesome-tikz#readme'
-    ownLabels: ['Miscellaneous']
-  - title: 'Calculators'
-    target: 'https://github.com/xxczaki/awesome-calculators#readme'
-    ownLabels: ['Miscellaneous']
-  - title: 'watchOS'
-    target: 'https://github.com/yenchenlin/awesome-watchos#readme'
-    ownLabels: ['Platforms']
-  - title: 'Dart'
-    target: 'https://github.com/yissachar/awesome-dart#readme'
-    ownLabels: ['Programming Languages']
-  - title: 'Hadoop'
-    target: 'https://github.com/youngwookim/awesome-hadoop#readme'
-    ownLabels: ['Big Data']
-  - title: 'Educational Games'
-    target: 'https://github.com/yrgo/awesome-educational-games#readme'
-    ownLabels: ['Learn']
-  - title: 'Open Source Supporters'
-    target: 'https://github.com/zachflower/awesome-open-source-supporters#readme'
-    ownLabels: ['Miscellaneous']
-  - title: 'D'
-    target: 'https://github.com/zhaopuming/awesome-d#readme'
-    ownLabels: ['Programming Languages']
-  - title: 'PHP'
-    target: 'https://github.com/ziadoz/awesome-php#readme'
-    ownLabels: ['Programming Languages']
-  - title: 'Charting'
-    target: 'https://github.com/zingchart/awesome-charting#readme'
-    ownLabels: ['Front-End Development']
-  - title: 'eBPF'
-    target: 'https://github.com/zoidbergwill/awesome-ebpf#readme'
-    ownLabels: ['Platforms']
-  - title: 'Email Newsletters'
-    target: 'https://github.com/zudochkin/awesome-newsletters#readme'
-    ownLabels: ['Entertainment']
+  - title: "awesome.md"
+    target: "awesome.md"
+  - title: "contributing.md"
+    target: "contributing.md"
+  - title: "create-list.md"
+    target: "create-list.md"
+  - title: "https://apps.apple.com/app/id1532588789"
+    target: "https://apps.apple.com/app/id1532588789"
+  - title: "Awesome Indexed"
+    target: "https://awesome-indexed.mathew-davies.co.uk"
+    ownLabels: ["Related"]
+  - title: "https://awesome.re"
+    target: "https://awesome.re"
+  - title: "Awesome Search"
+    target: "https://awesomelists.top"
+    ownLabels: ["Related"]
+  - title: "https://blog.sindresorhus.com"
+    target: "https://blog.sindresorhus.com"
+  - title: "DevSecOps](https://github.com/TaptuIT/awesome-devsecops#readme) - Integration of security practices into [DevOps"
+    target: "https://en.wikipedia.org/wiki/DevOps"
+    ownLabels: ["Security"]
+  - title: "30 Seconds of Code"
+    target: "https://github.com/30-seconds/30-seconds-of-code#readme"
+    ownLabels: ["Programming Languages"]
+  - title: "TensorFlow.js"
+    target: "https://github.com/aaronhma/awesome-tensorflow-js#readme"
+    ownLabels: ["Computer Science"]
+  - title: "Data Science"
+    target: "https://github.com/academic/awesome-datascience#readme"
+    ownLabels: ["Computer Science"]
+  - title: "Discounts for Student Developers"
+    target: "https://github.com/AchoArnold/discount-for-student-dev#readme"
+    ownLabels: ["Miscellaneous"]
+  - title: "Adafruit IO"
+    target: "https://github.com/adafruit/awesome-adafruitio#readme"
+    ownLabels: ["Platforms"]
+  - title: "CircuitPython"
+    target: "https://github.com/adafruit/awesome-circuitpython#readme"
+    ownLabels: ["Programming Languages"]
+  - title: "Critical-Path Tools"
+    target: "https://github.com/addyosmani/critical-path-css-tools#readme"
+    ownLabels: ["Front-End Development"]
+  - title: "ES6 Tools"
+    target: "https://github.com/addyosmani/es6-tools#readme"
+    ownLabels: ["Front-End Development"]
+  - title: "Blazor"
+    target: "https://github.com/AdrienTorris/awesome-blazor#readme"
+    ownLabels: ["Front-End Development"]
+  - title: "Flexbox"
+    target: "https://github.com/afonsopacifer/awesome-flexbox#readme"
+    ownLabels: ["Front-End Development"]
+  - title: "Command-Line Apps"
+    target: "https://github.com/agarrharr/awesome-cli-apps#readme"
+    ownLabels: ["Development Environment"]
+  - title: "Screensavers"
+    target: "https://github.com/agarrharr/awesome-macos-screensavers#readme"
+    ownLabels: ["Platforms"]
+  - title: "Static Website Services"
+    target: "https://github.com/agarrharr/awesome-static-website-services#readme"
+    ownLabels: ["Front-End Development"]
+  - title: "ESP"
+    target: "https://github.com/agucova/awesome-esp#readme"
+    ownLabels: ["Platforms"]
+  - title: "AutoHotkey"
+    target: "https://github.com/ahkscript/awesome-AutoHotkey#readme"
+    ownLabels: ["Programming Languages"]
+  - title: "Java"
+    target: "https://github.com/akullpp/awesome-java#readme"
+    ownLabels: ["Programming Languages"]
+  - title: "Shell"
+    target: "https://github.com/alebcay/awesome-shell#readme"
+    ownLabels: ["Development Environment"]
+  - title: "C"
+    target: "https://github.com/aleksandar-todorovic/awesome-c#readme"
+    ownLabels: ["Programming Languages"]
+  - title: "Linux"
+    target: "https://github.com/aleksandar-todorovic/awesome-linux#readme"
+    ownLabels: ["Platforms"]
+  - title: "Bitcoin Payment Processors"
+    target: "https://github.com/alexk111/awesome-bitcoin-payment-processors#readme"
+    ownLabels: ["Miscellaneous"]
+  - title: "Gulp"
+    target: "https://github.com/alferov/awesome-gulp#readme"
+    ownLabels: ["Miscellaneous"]
+  - title: "JMeter"
+    target: "https://github.com/aliesbelik/awesome-jmeter#readme"
+    ownLabels: ["Testing"]
+  - title: "Protips"
+    target: "https://github.com/AllThingsSmitty/css-protips#readme"
+    ownLabels: ["Front-End Development"]
+  - title: "Tips"
+    target: "https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know#readme"
+    ownLabels: ["Front-End Development"]
+  - title: "Must-Watch Talks"
+    target: "https://github.com/AllThingsSmitty/must-watch-css#readme"
+    ownLabels: ["Front-End Development"]
+  - title: "Qlik"
+    target: "https://github.com/ambster-public/awesome-qlik#readme"
+    ownLabels: ["Big Data"]
+  - title: "Static Analysis & Code Quality"
+    target: "https://github.com/analysis-tools-dev/static-analysis#readme"
+    ownLabels: ["Computer Science"]
+  - title: "Neuroscience"
+    target: "https://github.com/analyticalmonk/awesome-neuroscience#readme"
+    ownLabels: ["Miscellaneous"]
+  - title: "FIRST Robotics Competition"
+    target: "https://github.com/andrewda/awesome-frc#readme"
+    ownLabels: ["Miscellaneous"]
+  - title: "Esolangs"
+    target: "https://github.com/angrykoala/awesome-esolangs#readme"
+    ownLabels: ["Miscellaneous"]
+  - title: "Tailwind CSS"
+    target: "https://github.com/aniftyco/awesome-tailwindcss#readme"
+    ownLabels: ["Front-End Development"]
+  - title: "Economics"
+    target: "https://github.com/antontarasenko/awesome-economics#readme"
+    ownLabels: ["Miscellaneous"]
+  - title: "CTF"
+    target: "https://github.com/apsdehal/awesome-ctf#readme"
+    ownLabels: ["Security"]
+  - title: "ML with Ruby"
+    target: "https://github.com/arbox/machine-learning-with-ruby#readme"
+    ownLabels: ["Computer Science"]
+  - title: "NLP with Ruby"
+    target: "https://github.com/arbox/nlp-with-ruby#readme"
+    ownLabels: ["Computer Science"]
+  - title: "Git Cheat Sheet & Git Flow"
+    target: "https://github.com/arslanbilal/git-cheat-sheet#readme"
+    ownLabels: ["Development Environment"]
+  - title: "Android Security"
+    target: "https://github.com/ashishb/android-security-awesome#readme"
+    ownLabels: ["Security"]
+  - title: "Aurelia"
+    target: "https://github.com/aurelia-contrib/awesome-aurelia#readme"
+    ownLabels: ["Front-End Development"]
+  - title: "JAMstack"
+    target: "https://github.com/automata/awesome-jamstack#readme"
+    ownLabels: ["Front-End Development"]
+  - title: "AVA"
+    target: "https://github.com/avajs/awesome-ava#readme"
+    ownLabels: ["Programming Languages"]
+  - title: "Go"
+    target: "https://github.com/avelino/awesome-go#readme"
+    ownLabels: ["Programming Languages"]
+  - title: "No-Login Web Apps"
+    target: "https://github.com/aviaryan/awesome-no-login-web-apps#readme"
+    ownLabels: ["Miscellaneous"]
+  - title: "CSS"
+    target: "https://github.com/awesome-css-group/awesome-css#readme"
+    ownLabels: ["Front-End Development"]
+  - title: "Self Hosted"
+    target: "https://github.com/awesome-selfhosted/awesome-selfhosted#readme"
+    ownLabels: ["Miscellaneous"]
+  - title: "Apache Spark"
+    target: "https://github.com/awesome-spark/awesome-spark#readme"
+    ownLabels: ["Big Data"]
+  - title: "Windows"
+    target: "https://github.com/Awesome-Windows/Awesome#readme"
+    ownLabels: ["Platforms"]
+  - title: "Public Datasets"
+    target: "https://github.com/awesomedata/awesome-public-datasets#readme"
+    ownLabels: ["Big Data"]
+  - title: "Events in the Netherlands"
+    target: "https://github.com/awkward/awesome-netherlands-events#readme"
+    ownLabels: ["Events"]
+  - title: "Podcasts"
+    target: "https://github.com/ayr-ton/awesome-geek-podcasts#readme"
+    ownLabels: ["Entertainment"]
+  - title: "GDPR"
+    target: "https://github.com/bakke92/awesome-gdpr#readme"
+    ownLabels: ["Security"]
+  - title: "StumbleUponAwesome"
+    target: "https://github.com/basharovV/StumbleUponAwesome"
+    ownLabels: ["Related"]
+  - title: "Cross-Platform"
+    target: "https://github.com/bcoe/awesome-cross-platform-nodejs#readme"
+    ownLabels: ["Platforms"]
+  - title: "Agriculture"
+    target: "https://github.com/beaorn/awesome-agriculture#readme"
+    ownLabels: ["Miscellaneous"]
+  - title: "Plotters"
+    target: "https://github.com/beardicus/awesome-plotters#readme"
+    ownLabels: ["Hardware"]
+  - title: "TALL Stack"
+    target: "https://github.com/blade-ui-kit/awesome-tall-stack#readme"
+    ownLabels: ["Back-End Development"]
+  - title: "Hyper"
+    target: "https://github.com/bnb/awesome-hyper#readme"
+    ownLabels: ["Development Environment"]
+  - title: "Must Watch Talks"
+    target: "https://github.com/bolshchikov/js-must-watch#readme"
+    ownLabels: ["Programming Languages"]
+  - title: "Fonts"
+    target: "https://github.com/brabadu/awesome-fonts#readme"
+    ownLabels: ["Media"]
+  - title: "Network Analysis"
+    target: "https://github.com/briatte/awesome-network-analysis#readme"
+    ownLabels: ["Networking"]
+  - title: "Redux"
+    target: "https://github.com/brillout/awesome-redux#readme"
+    ownLabels: ["Front-End Development"]
+  - title: "Browserify"
+    target: "https://github.com/browserify/awesome-browserify#readme"
+    ownLabels: ["Front-End Development"]
+  - title: "Userscripts"
+    target: "https://github.com/brunocvcunha/awesome-userscripts#readme"
+    ownLabels: ["Miscellaneous"]
+  - title: "Web Accessibility"
+    target: "https://github.com/brunopulis/awesome-a11y#readme"
+    ownLabels: ["Front-End Development"]
+  - title: "Minecraft"
+    target: "https://github.com/bs-community/awesome-minecraft#readme"
+    ownLabels: ["Gaming"]
+  - title: "Markdown"
+    target: "https://github.com/BubuAnabelas/awesome-markdown#readme"
+    ownLabels: ["Miscellaneous"]
+  - title: "JSON"
+    target: "https://github.com/burningtree/awesome-json#readme"
+    ownLabels: ["Miscellaneous"]
+  - title: "Cordova"
+    target: "https://github.com/busterc/awesome-cordova#readme"
+    ownLabels: ["Platforms"]
+  - title: "PCAPTools"
+    target: "https://github.com/caesar0301/awesome-pcaptools#readme"
+    ownLabels: ["Networking"]
+  - title: "Godot"
+    target: "https://github.com/Calinou/awesome-godot#readme"
+    ownLabels: ["Gaming"]
+  - title: "Ionic Framework 2"
+    target: "https://github.com/candelibas/awesome-ionic#readme"
+    ownLabels: ["Front-End Development"]
+  - title: "Hacking"
+    target: "https://github.com/carpedm20/awesome-hacking#readme"
+    ownLabels: ["Security"]
+  - title: "Prisma"
+    target: "https://github.com/catalinmiron/awesome-prisma#readme"
+    ownLabels: ["Miscellaneous"]
+  - title: "Biomedical Information Extraction"
+    target: "https://github.com/caufieldjh/awesome-bioie#readme"
+    ownLabels: ["Miscellaneous"]
+  - title: "Vapor"
+    target: "https://github.com/Cellane/awesome-vapor#readme"
+    ownLabels: ["Back-End Development"]
+  - title: "Advertising"
+    target: "https://github.com/cenoura/awesome-ads#readme"
+    ownLabels: ["Miscellaneous"]
+  - title: "Corda"
+    target: "https://github.com/chainstack/awesome-corda#readme"
+    ownLabels: ["Decentralized Systems"]
+  - title: "GraphQL"
+    target: "https://github.com/chentsulin/awesome-graphql#readme"
+    ownLabels: ["Miscellaneous"]
+  - title: "Laravel"
+    target: "https://github.com/chiraggude/awesome-laravel#readme"
+    ownLabels: ["Back-End Development"]
+  - title: "choo"
+    target: "https://github.com/choojs/awesome-choo#readme"
+    ownLabels: ["Front-End Development"]
+  - title: "Codeface"
+    target: "https://github.com/chrissimpkins/codeface#readme"
+    ownLabels: ["Media"]
+  - title: "Selenium"
+    target: "https://github.com/christian-bromann/awesome-selenium#readme"
+    ownLabels: ["Testing"]
+  - title: "Deep Learning"
+    target: "https://github.com/ChristosChristofidis/awesome-deep-learning#readme"
+    ownLabels: ["Computer Science"]
+  - title: "Chrome DevTools"
+    target: "https://github.com/ChromeDevTools/awesome-chrome-devtools#readme"
+    ownLabels: ["Front-End Development"]
+  - title: "Continuous Integration and Continuous Delivery"
+    target: "https://github.com/cicdops/awesome-ciandcd#readme"
+    ownLabels: ["Miscellaneous"]
+  - title: "Music"
+    target: "https://github.com/ciconia/awesome-music#readme"
+    ownLabels: ["Media"]
+  - title: "Tools of the Trade"
+    target: "https://github.com/cjbarber/ToolsOfTheTrade#readme"
+    ownLabels: ["Business"]
+  - title: "iOS UI"
+    target: "https://github.com/cjwirth/awesome-ios-ui#readme"
+    ownLabels: ["Front-End Development"]
+  - title: "Code Points"
+    target: "https://github.com/Codepoints/awesome-codepoints#readme"
+    ownLabels: ["Miscellaneous"]
+  - title: "Common Lisp"
+    target: "https://github.com/CodyReichert/awesome-cl#readme"
+    ownLabels: ["Programming Languages"]
+  - title: "Building Blocks for Web Apps"
+    target: "https://github.com/componently-com/awesome-building-blocks-for-web-apps#readme"
+    ownLabels: ["Front-End Development"]
+  - title: "Git Hooks"
+    target: "https://github.com/compscilauren/awesome-git-hooks#readme"
+    ownLabels: ["Development Environment"]
+  - title: "Coq"
+    target: "https://github.com/coq-community/awesome-coq#readme"
+    ownLabels: ["Programming Languages"]
+  - title: "Fuzzing"
+    target: "https://github.com/cpuu/awesome-fuzzing#readme"
+    ownLabels: ["Security"]
+  - title: "Craft CMS"
+    target: "https://github.com/craftcms/awesome#readme"
+    ownLabels: ["Content Management Systems"]
+  - title: "For Girls"
+    target: "https://github.com/cristianoliveira/awesome4girls#readme"
+    ownLabels: ["Miscellaneous"]
+  - title: "Transit"
+    target: "https://github.com/CUTR-at-USF/awesome-transit#readme"
+    ownLabels: ["Miscellaneous"]
+  - title: "Answers"
+    target: "https://github.com/cyberglot/awesome-answers#readme"
+    ownLabels: ["Miscellaneous"]
+  - title: "Cycle.js"
+    target: "https://github.com/cyclejs-community/awesome-cyclejs#readme"
+    ownLabels: ["Front-End Development"]
+  - title: "Cytodata"
+    target: "https://github.com/cytodata/awesome-cytodata#readme"
+    ownLabels: ["Miscellaneous"]
+  - title: "RethinkDB"
+    target: "https://github.com/d3viant0ne/awesome-rethinkdb#readme"
+    ownLabels: ["Databases"]
+  - title: "SQLAlchemy"
+    target: "https://github.com/dahlia/awesome-sqlalchemy#readme"
+    ownLabels: ["Databases"]
+  - title: "EOSIO"
+    target: "https://github.com/DanailMinchev/awesome-eosio#readme"
+    ownLabels: ["Decentralized Systems"]
+  - title: "Bioinformatics"
+    target: "https://github.com/danielecook/Awesome-Bioinformatics#readme"
+    ownLabels: ["Miscellaneous"]
+  - title: "Creative Tech Events"
+    target: "https://github.com/danvoyce/awesome-creative-tech-events#readme"
+    ownLabels: ["Events"]
+  - title: "Go Books"
+    target: "https://github.com/dariubs/GoBooks#readme"
+    ownLabels: ["Books"]
+  - title: "Site Reliability Engineering"
+    target: "https://github.com/dastergon/awesome-sre#readme"
+    ownLabels: ["Miscellaneous"]
+  - title: "FOSS Production Apps"
+    target: "https://github.com/DataDaoDe/awesome-foss-apps#readme"
+    ownLabels: ["Miscellaneous"]
+  - title: "Spanish"
+    target: "https://github.com/dav009/awesome-spanish-nlp#readme"
+    ownLabels: ["Computer Science"]
+  - title: "Hacking Spots"
+    target: "https://github.com/daviddias/awesome-hacking-locations#readme"
+    ownLabels: ["Miscellaneous"]
+  - title: "Magento 2"
+    target: "https://github.com/DavidLambauer/awesome-magento2#readme"
+    ownLabels: ["Miscellaneous"]
+  - title: "Web Performance Optimization"
+    target: "https://github.com/davidsonfellipe/awesome-wpo#readme"
+    ownLabels: ["Front-End Development"]
+  - title: "Scalability"
+    target: "https://github.com/davidtheclark/scalable-css-reading-list#readme"
+    ownLabels: ["Front-End Development"]
+  - title: "GIF"
+    target: "https://github.com/davisonio/awesome-gif#readme"
+    ownLabels: ["Media"]
+  - title: "IRC"
+    target: "https://github.com/davisonio/awesome-irc#readme"
+    ownLabels: ["Miscellaneous"]
+  - title: "Web Typography"
+    target: "https://github.com/deanhume/typography#readme"
+    ownLabels: ["Front-End Development"]
+  - title: "JVM"
+    target: "https://github.com/deephacks/awesome-jvm#readme"
+    ownLabels: ["Platforms"]
+  - title: "Product Management"
+    target: "https://github.com/dend/awesome-product-management#readme"
+    ownLabels: ["Learn"]
+  - title: "Deno"
+    target: "https://github.com/denolib/awesome-deno#readme"
+    ownLabels: ["Platforms"]
+  - title: "Alfred Workflows"
+    target: "https://github.com/derimagia/awesome-alfred-workflows#readme"
+    ownLabels: ["Development Environment"]
+  - title: "Vala"
+    target: "https://github.com/desiderantes/awesome-vala#readme"
+    ownLabels: ["Programming Languages"]
+  - title: "Quantum Computing"
+    target: "https://github.com/desireevl/awesome-quantum-computing#readme"
+    ownLabels: ["Computer Science"]
+  - title: "PostgreSQL"
+    target: "https://github.com/dhamaniasad/awesome-postgres#readme"
+    ownLabels: ["Databases"]
+  - title: "HTML5"
+    target: "https://github.com/diegocard/awesome-html5#readme"
+    ownLabels: ["Front-End Development"]
+  - title: "Sketch"
+    target: "https://github.com/diessica/awesome-sketch#readme"
+    ownLabels: ["Miscellaneous"]
+  - title: "KnockoutJS"
+    target: "https://github.com/dnbard/awesome-knockout#readme"
+    ownLabels: ["Front-End Development"]
+  - title: "Text Editing"
+    target: "https://github.com/dok/awesome-text-editing#readme"
+    ownLabels: ["Front-End Development"]
+  - title: "OKR Methodology"
+    target: "https://github.com/domenicosolazzo/awesome-okr#readme"
+    ownLabels: ["Business"]
+  - title: "Amazon Web Services"
+    target: "https://github.com/donnemartin/awesome-aws#readme"
+    ownLabels: ["Platforms"]
+  - title: "Mental Health"
+    target: "https://github.com/dreamingechoes/awesome-mental-health#readme"
+    ownLabels: ["Miscellaneous"]
+  - title: "Sublime Text"
+    target: "https://github.com/dreikanter/sublime-bookmarks#readme"
+    ownLabels: ["Editors"]
+  - title: "Tools for Activism"
+    target: "https://github.com/drewrwilson/toolsforactivism#readme"
+    ownLabels: ["Miscellaneous"]
+  - title: "Textpattern"
+    target: "https://github.com/drmonkeyninja/awesome-textpattern#readme"
+    ownLabels: ["Content Management Systems"]
+  - title: "Erlang"
+    target: "https://github.com/drobakowski/awesome-erlang#readme"
+    ownLabels: ["Programming Languages"]
+  - title: "Empirical Software Engineering"
+    target: "https://github.com/dspinellis/awesome-msr#readme"
+    ownLabels: ["Computer Science"]
+  - title: "ESLint"
+    target: "https://github.com/dustinspecker/awesome-eslint#readme"
+    ownLabels: ["Programming Languages"]
+  - title: "Haxe Game Development"
+    target: "https://github.com/Dvergar/awesome-haxe-gamedev#readme"
+    ownLabels: ["Gaming"]
+  - title: "Citizen Science"
+    target: "https://github.com/dylanrees/citizen-science#readme"
+    ownLabels: ["Miscellaneous"]
+  - title: "Frontend Development"
+    target: "https://github.com/dypsilon/frontend-dev-bookmarks#readme"
+    ownLabels: ["Platforms"]
+  - title: "Free Programming Books"
+    target: "https://github.com/EbookFoundation/free-programming-books#readme"
+    ownLabels: ["Books"]
+  - title: "Q#"
+    target: "https://github.com/ebraminio/awesome-qsharp#readme"
+    ownLabels: ["Programming Languages"]
+  - title: "Broadcasting"
+    target: "https://github.com/ebu/awesome-broadcasting#readme"
+    ownLabels: ["Media"]
+  - title: "Parasite"
+    target: "https://github.com/ecohealthalliance/awesome-parasite#readme"
+    ownLabels: ["Miscellaneous"]
+  - title: "Board Games"
+    target: "https://github.com/edm00se/awesome-board-games#readme"
+    ownLabels: ["Miscellaneous"]
+  - title: "Speech and Natural Language Processing"
+    target: "https://github.com/edobashira/speech-language-processing#readme"
+    ownLabels: ["Computer Science"]
+  - title: "LaTeX"
+    target: "https://github.com/egeerardyn/awesome-LaTeX#readme"
+    ownLabels: ["Miscellaneous"]
+  - title: "RxJava"
+    target: "https://github.com/eleventigers/awesome-rxjava#readme"
+    ownLabels: ["Programming Languages"]
+  - title: "Game Development"
+    target: "https://github.com/ellisonleao/magictools#readme"
+    ownLabels: ["Gaming"]
+  - title: "Emacs"
+    target: "https://github.com/emacs-tw/awesome-emacs#readme"
+    ownLabels: ["Editors"]
+  - title: "Ember"
+    target: "https://github.com/ember-community-russia/awesome-ember#readme"
+    ownLabels: ["Front-End Development"]
+  - title: "Research Tools"
+    target: "https://github.com/emptymalei/awesome-research#readme"
+    ownLabels: ["Miscellaneous"]
+  - title: "React"
+    target: "https://github.com/enaqx/awesome-react#readme"
+    ownLabels: ["Front-End Development"]
+  - title: "Algorithm Visualizations"
+    target: "https://github.com/enjalot/algovis#readme"
+    ownLabels: ["Theory"]
+  - title: "NoSQL Guides"
+    target: "https://github.com/erictleung/awesome-nosql-guides#readme"
+    ownLabels: ["Databases"]
+  - title: "Computational Neuroscience"
+    target: "https://github.com/eselkin/awesome-computational-neuroscience#readme"
+    ownLabels: ["Higher Education"]
+  - title: "OpenGL"
+    target: "https://github.com/eug/awesome-opengl#readme"
+    ownLabels: ["Miscellaneous"]
+  - title: "ChatOps"
+    target: "https://github.com/exAspArk/awesome-chatops#readme"
+    ownLabels: ["Miscellaneous"]
+  - title: "Relay"
+    target: "https://github.com/expede/awesome-relay#readme"
+    ownLabels: ["Front-End Development"]
+  - title: "Cybersecurity Blue Team"
+    target: "https://github.com/fabacab/awesome-cybersecurity-blueteam#readme"
+    ownLabels: ["Security"]
+  - title: "Lockpicking"
+    target: "https://github.com/fabacab/awesome-lockpicking#readme"
+    ownLabels: ["Security"]
+  - title: "Sass"
+    target: "https://github.com/Famolus/awesome-sass#readme"
+    ownLabels: ["Front-End Development"]
+  - title: "Scientific Audio"
+    target: "https://github.com/faroit/awesome-python-scientific-audio#readme"
+    ownLabels: ["Programming Languages"]
+  - title: "Data Visualization"
+    target: "https://github.com/fasouto/awesome-dataviz#readme"
+    ownLabels: ["Miscellaneous"]
+  - title: "nginx"
+    target: "https://github.com/fcambus/nginx-resources#readme"
+    ownLabels: ["Back-End Development"]
+  - title: "Mad Science npm Packages"
+    target: "https://github.com/feross/awesome-mad-science#readme"
+    ownLabels: ["Programming Languages"]
+  - title: "C/C++"
+    target: "https://github.com/fffaraz/awesome-cpp#readme"
+    ownLabels: ["Programming Languages"]
+  - title: "Communities"
+    target: "https://github.com/filipelinhares/awesome-slack#readme"
+    ownLabels: ["Work"]
+  - title: "Embedded and IoT Security"
+    target: "https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme"
+    ownLabels: ["Security"]
+  - title: "Robot Operating System 2.0"
+    target: "https://github.com/fkromer/awesome-ros2#readme"
+    ownLabels: ["Platforms"]
+  - title: "Flame"
+    target: "https://github.com/flame-engine/awesome-flame#readme"
+    ownLabels: ["Gaming"]
+  - title: "Motion UI Design"
+    target: "https://github.com/fliptheweb/motion-ui-design#readme"
+    ownLabels: ["Front-End Development"]
+  - title: "Diversity"
+    target: "https://github.com/folkswhocode/awesome-diversity#readme"
+    ownLabels: ["Miscellaneous"]
+  - title: "Pascal"
+    target: "https://github.com/Fr0sT-Brutal/awesome-pascal#readme"
+    ownLabels: ["Programming Languages"]
+  - title: "KDE"
+    target: "https://github.com/francoism90/awesome-kde#readme"
+    ownLabels: ["Platforms"]
+  - title: "WebExtensions"
+    target: "https://github.com/fregante/Awesome-WebExtensions#readme"
+    ownLabels: ["Platforms"]
+  - title: "Home Assistant"
+    target: "https://github.com/frenck/awesome-home-assistant#readme"
+    ownLabels: ["Platforms"]
+  - title: "CakePHP"
+    target: "https://github.com/friendsofcake/awesome-cakephp#readme"
+    ownLabels: ["Back-End Development"]
+  - title: "Containers"
+    target: "https://github.com/Friz-zy/awesome-linux-containers#readme"
+    ownLabels: ["Platforms"]
+  - title: "Education"
+    target: "https://github.com/fukuball/Awesome-Laravel-Education#readme"
+    ownLabels: ["Back-End Development"]
+  - title: "Fuse"
+    target: "https://github.com/fuse-compound/awesome-fuse#readme"
+    ownLabels: ["Platforms"]
+  - title: "Education"
+    target: "https://github.com/gaerae/awesome-algorithms-education#readme"
+    ownLabels: ["Theory"]
+  - title: "Katas"
+    target: "https://github.com/gamontal/awesome-katas#readme"
+    ownLabels: ["Miscellaneous"]
+  - title: "Game Boy Development"
+    target: "https://github.com/gbdev/awesome-gbdev#readme"
+    ownLabels: ["Gaming"]
+  - title: "AI in Finance"
+    target: "https://github.com/georgezouq/awesome-ai-in-finance#readme"
+    ownLabels: ["Computer Science"]
+  - title: "Git Tips"
+    target: "https://github.com/git-tips/tips#readme"
+    ownLabels: ["Development Environment"]
+  - title: "Electric Guitar Specifications"
+    target: "https://github.com/gitfrage/guitarspecs#readme"
+    ownLabels: ["Hardware"]
+  - title: "React Hooks"
+    target: "https://github.com/glauberfc/awesome-react-hooks#readme"
+    ownLabels: ["Front-End Development"]
+  - title: "Rails"
+    target: "https://github.com/gramantin/awesome-rails#readme"
+    ownLabels: ["Back-End Development"]
+  - title: "Polymer"
+    target: "https://github.com/Granze/awesome-polymer#readme"
+    ownLabels: ["Front-End Development"]
+  - title: "Naming"
+    target: "https://github.com/gruhn/awesome-naming#readme"
+    ownLabels: ["Miscellaneous"]
+  - title: "Education"
+    target: "https://github.com/guillaume-chevalier/awesome-deep-learning-resources#readme"
+    ownLabels: ["Computer Science"]
+  - title: "Learning"
+    target: "https://github.com/GustavBertram/awesome-common-lisp-learning#readme"
+    ownLabels: ["Programming Languages"]
+  - title: "H2O"
+    target: "https://github.com/h2oai/awesome-h2o#readme"
+    ownLabels: ["Computer Science"]
+  - title: "Elixir"
+    target: "https://github.com/h4cc/awesome-elixir#readme"
+    ownLabels: ["Programming Languages"]
+  - title: "Perl"
+    target: "https://github.com/hachiojipm/awesome-perl#readme"
+    ownLabels: ["Programming Languages"]
+  - title: "Bots"
+    target: "https://github.com/hackerkid/bots#readme"
+    ownLabels: ["Miscellaneous"]
+  - title: "Mind Expanding Books"
+    target: "https://github.com/hackerkid/Mind-Expanding-Books#readme"
+    ownLabels: ["Books"]
+  - title: "Dive into Machine Learning"
+    target: "https://github.com/hangtwenty/dive-into-machine-learning#readme"
+    ownLabels: ["Learn"]
+  - title: "ClojureScript"
+    target: "https://github.com/hantuzun/awesome-clojurescript#readme"
+    ownLabels: ["Programming Languages"]
+  - title: "Information Retrieval"
+    target: "https://github.com/harpribot/awesome-information-retrieval#readme"
+    ownLabels: ["Computer Science"]
+  - title: "SaltStack"
+    target: "https://github.com/hbokh/awesome-saltstack#readme"
+    ownLabels: ["Miscellaneous"]
+  - title: "WordPress-Gatsby"
+    target: "https://github.com/henrikwirth/awesome-wordpress-gatsby#readme"
+    ownLabels: ["Front-End Development"]
+  - title: "Command-Line"
+    target: "https://github.com/herrbischoff/awesome-macos-command-line#readme"
+    ownLabels: ["Platforms"]
+  - title: "Domain-Driven Design"
+    target: "https://github.com/heynickc/awesome-ddd#readme"
+    ownLabels: ["Miscellaneous"]
+  - title: "Chess"
+    target: "https://github.com/hkirat/awesome-chess#readme"
+    ownLabels: ["Gaming"]
+  - title: "MQTT"
+    target: "https://github.com/hobbyquaker/awesome-mqtt#readme"
+    ownLabels: ["Miscellaneous"]
+  - title: "Programming for Kids"
+    target: "https://github.com/HollyAdele/awesome-programming-for-kids#readme"
+    ownLabels: ["Learn"]
+  - title: "Homematic"
+    target: "https://github.com/homematic-community/awesome-homematic#readme"
+    ownLabels: ["Miscellaneous"]
+  - title: "Gems"
+    target: "https://github.com/hothero/awesome-rails-gem#readme"
+    ownLabels: ["Back-End Development"]
+  - title: "Internet of Things"
+    target: "https://github.com/HQarroum/awesome-iot#readme"
+    ownLabels: ["Hardware"]
+  - title: "Education"
+    target: "https://github.com/hsavit1/Awesome-Swift-Education#readme"
+    ownLabels: ["Programming Languages"]
+  - title: "Cheminformatics"
+    target: "https://github.com/hsiaoyi0504/awesome-cheminformatics#readme"
+    ownLabels: ["Miscellaneous"]
+  - title: "Open Source Documents"
+    target: "https://github.com/hubtee/awesome-opensource-documents#readme"
+    ownLabels: ["Media"]
+  - title: "Humane Technology"
+    target: "https://github.com/humanetech-community/awesome-humane-tech#readme"
+    ownLabels: ["Miscellaneous"]
+  - title: "Game Talks"
+    target: "https://github.com/hzoo/awesome-gametalks#readme"
+    ownLabels: ["Gaming"]
+  - title: "Learning"
+    target: "https://github.com/iamericfletcher/awesome-r-learning-resources#readme"
+    ownLabels: ["Programming Languages"]
+  - title: "Heroku"
+    target: "https://github.com/ianstormtaylor/awesome-heroku#readme"
+    ownLabels: ["Platforms"]
+  - title: "Open Source Photography"
+    target: "https://github.com/ibaaj/awesome-OpenSourcePhotography#readme"
+    ownLabels: ["Miscellaneous"]
+  - title: "macOS"
+    target: "https://github.com/iCHAIT/awesome-macOS#readme"
+    ownLabels: ["Platforms"]
+  - title: "Bitcoin"
+    target: "https://github.com/igorbarinov/awesome-bitcoin#readme"
+    ownLabels: ["Decentralized Systems"]
+  - title: "Data Engineering"
+    target: "https://github.com/igorbarinov/awesome-data-engineering#readme"
+    ownLabels: ["Big Data"]
+  - title: "Web Archiving"
+    target: "https://github.com/iipc/awesome-web-archiving#readme"
+    ownLabels: ["Miscellaneous"]
+  - title: "Vagrant"
+    target: "https://github.com/iJackUA/awesome-vagrant#readme"
+    ownLabels: ["Back-End Development"]
+  - title: "Events in Italy"
+    target: "https://github.com/ildoc/awesome-italy-events#readme"
+    ownLabels: ["Events"]
+  - title: "inspectIT"
+    target: "https://github.com/inspectit-labs/awesome-inspectit#readme"
+    ownLabels: ["Miscellaneous"]
+  - title: "IPFS"
+    target: "https://github.com/ipfs/awesome-ipfs#readme"
+    ownLabels: ["Platforms"]
+  - title: "Cloudflare"
+    target: "https://github.com/irazasyed/awesome-cloudflare#readme"
+    ownLabels: ["Platforms"]
+  - title: "Roslyn"
+    target: "https://github.com/ironcev/awesome-roslyn#readme"
+    ownLabels: ["Platforms"]
+  - title: "Creative Technology"
+    target: "https://github.com/j0hnm4r5/awesome-creative-technology#readme"
+    ownLabels: ["Work"]
+  - title: "AutoIt"
+    target: "https://github.com/J2TeaM/awesome-AutoIt#readme"
+    ownLabels: ["Programming Languages"]
+  - title: "Composer"
+    target: "https://github.com/jakoch/awesome-composer#readme"
+    ownLabels: ["Programming Languages"]
+  - title: "PowerShell"
+    target: "https://github.com/janikvonrotz/awesome-powershell#readme"
+    ownLabels: ["Development Environment"]
+  - title: "Talks"
+    target: "https://github.com/JanVanRyswyck/awesome-talks#readme"
+    ownLabels: ["Theory"]
+  - title: "Vehicle Security and Car Hacking"
+    target: "https://github.com/jaredthecoder/awesome-vehicle-security#readme"
+    ownLabels: ["Security"]
+  - title: "Apps"
+    target: "https://github.com/jaywcjlove/awesome-mac#readme"
+    ownLabels: ["Platforms"]
+  - title: "Computer Vision"
+    target: "https://github.com/jbhuang0604/awesome-computer-vision#readme"
+    ownLabels: ["Computer Science"]
+  - title: "Progressive Enhancement"
+    target: "https://github.com/jbmoelker/progressive-enhancement-resources#readme"
+    ownLabels: ["Front-End Development"]
+  - title: "Datasets"
+    target: "https://github.com/jdorfman/awesome-json-datasets#readme"
+    ownLabels: ["Miscellaneous"]
+  - title: "PostCSS"
+    target: "https://github.com/jdrgomes/awesome-postcss#readme"
+    ownLabels: ["Front-End Development"]
+  - title: "Qt"
+    target: "https://github.com/JesseTG/awesome-qt#readme"
+    ownLabels: ["Platforms"]
+  - title: "Yew"
+    target: "https://github.com/jetli/awesome-yew#readme"
+    ownLabels: ["Front-End Development"]
+  - title: "Idris"
+    target: "https://github.com/joaomilho/awesome-idris#readme"
+    ownLabels: ["Programming Languages"]
+  - title: "Ad-Free"
+    target: "https://github.com/johnjago/awesome-ad-free#readme"
+    ownLabels: ["Miscellaneous"]
+  - title: "Free Software"
+    target: "https://github.com/johnjago/awesome-free-software#readme"
+    ownLabels: ["Miscellaneous"]
+  - title: "Theravada"
+    target: "https://github.com/johnjago/awesome-theravada#readme"
+    ownLabels: ["Miscellaneous"]
+  - title: "Uncopyright"
+    target: "https://github.com/johnjago/awesome-uncopyright#readme"
+    ownLabels: ["Miscellaneous"]
+  - title: "Code Review"
+    target: "https://github.com/joho/awesome-code-review#readme"
+    ownLabels: ["Work"]
+  - title: "Emails"
+    target: "https://github.com/jonathandion/awesome-emails#readme"
+    ownLabels: ["Front-End Development"]
+  - title: "Dev Env"
+    target: "https://github.com/jondot/awesome-devenv#readme"
+    ownLabels: ["Development Environment"]
+  - title: "React Native"
+    target: "https://github.com/jondot/awesome-react-native#readme"
+    ownLabels: ["Platforms"]
+  - title: "DigitalOcean"
+    target: "https://github.com/jonleibowitz/awesome-digitalocean#readme"
+    ownLabels: ["Platforms"]
+  - title: "Fish"
+    target: "https://github.com/jorgebucaran/awesome-fish#readme"
+    ownLabels: ["Development Environment"]
+  - title: "Hyperapp"
+    target: "https://github.com/jorgebucaran/awesome-hyperapp#readme"
+    ownLabels: ["Front-End Development"]
+  - title: "Machine Learning"
+    target: "https://github.com/josephmisiti/awesome-machine-learning#readme"
+    ownLabels: ["Computer Science"]
+  - title: "Android"
+    target: "https://github.com/JStumpp/awesome-android#readme"
+    ownLabels: ["Platforms"]
+  - title: "Firebase"
+    target: "https://github.com/jthegedus/awesome-firebase#readme"
+    ownLabels: ["Platforms"]
+  - title: "TensorFlow"
+    target: "https://github.com/jtoy/awesome-tensorflow#readme"
+    ownLabels: ["Computer Science"]
+  - title: "Productivity"
+    target: "https://github.com/jyguyomarch/awesome-productivity#readme"
+    ownLabels: ["Work"]
+  - title: "Food"
+    target: "https://github.com/jzarca01/awesome-food#readme"
+    ownLabels: ["Miscellaneous"]
+  - title: "Terminals Are Sexy"
+    target: "https://github.com/k4m4/terminals-are-sexy#readme"
+    ownLabels: ["Development Environment"]
+  - title: "k6"
+    target: "https://github.com/k6io/awesome-k6#readme"
+    ownLabels: ["Testing"]
+  - title: "Healthcare"
+    target: "https://github.com/kakoni/awesome-healthcare#readme"
+    ownLabels: ["Miscellaneous"]
+  - title: "Speakers"
+    target: "https://github.com/karlhorky/awesome-speakers#readme"
+    ownLabels: ["Miscellaneous"]
+  - title: "Learn to Program"
+    target: "https://github.com/karlhorky/learn-to-program#readme"
+    ownLabels: ["Learn"]
+  - title: "GNOME"
+    target: "https://github.com/Kazhnuz/awesome-gnome#readme"
+    ownLabels: ["Platforms"]
+  - title: "Groovy"
+    target: "https://github.com/kdabir/awesome-groovy#readme"
+    ownLabels: ["Programming Languages"]
+  - title: "Engineering Team Management"
+    target: "https://github.com/kdeldycke/awesome-engineering-team-management#readme"
+    ownLabels: ["Business"]
+  - title: "Falsehood"
+    target: "https://github.com/kdeldycke/awesome-falsehood#readme"
+    ownLabels: ["Miscellaneous"]
+  - title: "Ansible"
+    target: "https://github.com/KeyboardInterrupt/awesome-ansible#readme"
+    ownLabels: ["Miscellaneous"]
+  - title: "Network Layer"
+    target: "https://github.com/Kikobeats/awesome-network-js#readme"
+    ownLabels: ["Programming Languages"]
+  - title: "Software Engineering Blogs"
+    target: "https://github.com/kilimchoi/engineering-blogs#readme"
+    ownLabels: ["Miscellaneous"]
+  - title: "Robotics"
+    target: "https://github.com/Kiloreux/awesome-robotics#readme"
+    ownLabels: ["Hardware"]
+  - title: "Empathy in Engineering"
+    target: "https://github.com/KimberlyMunoz/empathy-in-engineering#readme"
+    ownLabels: ["Miscellaneous"]
+  - title: "Electronics"
+    target: "https://github.com/kitspace/awesome-electronics#readme"
+    ownLabels: ["Hardware"]
+  - title: "Deep Vision"
+    target: "https://github.com/kjw0612/awesome-deep-vision#readme"
+    ownLabels: ["Computer Science"]
+  - title: "Imba"
+    target: "https://github.com/koolamusic/awesome-imba#readme"
+    ownLabels: ["Programming Languages"]
+  - title: "Kotlin"
+    target: "https://github.com/KotlinBy/awesome-kotlin#readme"
+    ownLabels: ["Programming Languages"]
+  - title: "Haskell"
+    target: "https://github.com/krispo/awesome-haskell#readme"
+    ownLabels: ["Programming Languages"]
+  - title: "Data Science"
+    target: "https://github.com/krzjoa/awesome-python-data-science#readme"
+    ownLabels: ["Programming Languages"]
+  - title: "Radio"
+    target: "https://github.com/kyleterry/awesome-radio#readme"
+    ownLabels: ["Miscellaneous"]
+  - title: "Leading and Managing"
+    target: "https://github.com/LappleApple/awesome-leading-and-managing#readme"
+    ownLabels: ["Business"]
+  - title: "Scala"
+    target: "https://github.com/lauris/awesome-scala#readme"
+    ownLabels: ["Programming Languages"]
+  - title: "Storybook"
+    target: "https://github.com/lauthieb/awesome-storybook#readme"
+    ownLabels: ["Front-End Development"]
+  - title: "Open Source Games"
+    target: "https://github.com/leereilly/games#readme"
+    ownLabels: ["Gaming"]
+  - title: "Game Datasets"
+    target: "https://github.com/leomaurodesenv/game-datasets#readme"
+    ownLabels: ["Gaming"]
+  - title: "Lua"
+    target: "https://github.com/LewisJEllis/awesome-lua#readme"
+    ownLabels: ["Programming Languages"]
+  - title: "Free Software Testing Books"
+    target: "https://github.com/ligurio/awesome-software-quality#readme"
+    ownLabels: ["Books"]
+  - title: "Core ML Models"
+    target: "https://github.com/likedan/Awesome-CoreML-Models#readme"
+    ownLabels: ["Computer Science"]
+  - title: "Roadmaps"
+    target: "https://github.com/liuchong/awesome-roadmaps#readme"
+    ownLabels: ["Learn"]
+  - title: "Competitive Programming"
+    target: "https://github.com/lnishan/awesome-competitive-programming#readme"
+    ownLabels: ["Theory"]
+  - title: "LÖVE"
+    target: "https://github.com/love2d-community/awesome-love2d#readme"
+    ownLabels: ["Gaming"]
+  - title: "Tips"
+    target: "https://github.com/loverajoel/jstips#readme"
+    ownLabels: ["Programming Languages"]
+  - title: "Contexture"
+    target: "https://github.com/ltchris/awesome-contexture#readme"
+    ownLabels: ["Databases"]
+  - title: "Less"
+    target: "https://github.com/LucasBassetti/awesome-less#readme"
+    ownLabels: ["Front-End Development"]
+  - title: "Functional Programming"
+    target: "https://github.com/lucasviola/awesome-functional-programming#readme"
+    ownLabels: ["Computer Science"]
+  - title: "Tech Videos"
+    target: "https://github.com/lucasviola/awesome-tech-videos#readme"
+    ownLabels: ["Learn"]
+  - title: "Remote Jobs"
+    target: "https://github.com/lukasz-madon/awesome-remote-job#readme"
+    ownLabels: ["Work"]
+  - title: "Web Tools"
+    target: "https://github.com/lvwzhen/tools#readme"
+    ownLabels: ["Front-End Development"]
+  - title: "Non-Financial Blockchain"
+    target: "https://github.com/machinomy/awesome-non-financial-blockchain#readme"
+    ownLabels: ["Decentralized Systems"]
+  - title: "Digital History"
+    target: "https://github.com/maehr/awesome-digital-history#readme"
+    ownLabels: ["Higher Education"]
+  - title: "Salesforce"
+    target: "https://github.com/mailtoharshit/awesome-salesforce#readme"
+    ownLabels: ["Platforms"]
+  - title: "Streaming"
+    target: "https://github.com/manuzhang/awesome-streaming#readme"
+    ownLabels: ["Big Data"]
+  - title: "Search Engine Optimization"
+    target: "https://github.com/marcobiedermann/search-engine-optimization#readme"
+    ownLabels: ["Theory"]
+  - title: "TensorFlow Lite"
+    target: "https://github.com/margaretmz/awesome-tensorflow-lite#readme"
+    ownLabels: ["Computer Science"]
+  - title: "InfluxDB"
+    target: "https://github.com/mark-rushakoff/awesome-influxdb#readme"
+    ownLabels: ["Databases"]
+  - title: "Ruby"
+    target: "https://github.com/markets/awesome-ruby#readme"
+    ownLabels: ["Programming Languages"]
+  - title: "Jupyter"
+    target: "https://github.com/markusschanta/awesome-jupyter#readme"
+    ownLabels: ["Miscellaneous"]
+  - title: "REST"
+    target: "https://github.com/marmelab/awesome-rest#readme"
+    ownLabels: ["Miscellaneous"]
+  - title: "Sitecore"
+    target: "https://github.com/MartinMiles/Awesome-Sitecore#readme"
+    ownLabels: ["Content Management Systems"]
+  - title: "Pinned Gists"
+    target: "https://github.com/matchai/awesome-pinned-gists#readme"
+    ownLabels: ["Development Environment"]
+  - title: "Web Components"
+    target: "https://github.com/mateusortiz/webcomponents-the-right-way#readme"
+    ownLabels: ["Front-End Development"]
+  - title: "Readme"
+    target: "https://github.com/matiassingers/awesome-readme#readme"
+    ownLabels: ["Miscellaneous"]
+  - title: "Slack"
+    target: "https://github.com/matiassingers/awesome-slack#readme"
+    ownLabels: ["Work"]
+  - title: "Swift"
+    target: "https://github.com/matteocrippa/awesome-swift#readme"
+    ownLabels: ["Programming Languages"]
+  - title: "Speaking"
+    target: "https://github.com/matteofigus/awesome-speaking#readme"
+    ownLabels: ["Learn"]
+  - title: "Programming Interviews"
+    target: "https://github.com/MaximAbramchuck/awesome-interview-questions#readme"
+    ownLabels: ["Work"]
+  - title: "Maintenance Modules"
+    target: "https://github.com/maxogden/maintenance-modules#readme"
+    ownLabels: ["Programming Languages"]
+  - title: "MicroPython"
+    target: "https://github.com/mcauser/awesome-micropython#readme"
+    ownLabels: ["Programming Languages"]
+  - title: "Atom"
+    target: "https://github.com/mehcode/awesome-atom#readme"
+    ownLabels: ["Editors"]
+  - title: "Incident Response"
+    target: "https://github.com/meirwah/awesome-incident-response#readme"
+    ownLabels: ["Security"]
+  - title: "Boilerplate Projects"
+    target: "https://github.com/melvin0008/awesome-projects-boilerplates#readme"
+    ownLabels: ["Miscellaneous"]
+  - title: "Indie"
+    target: "https://github.com/mezod/awesome-indie#readme"
+    ownLabels: ["Business"]
+  - title: "Microservices"
+    target: "https://github.com/mfornos/awesome-microservices#readme"
+    ownLabels: ["Miscellaneous"]
+  - title: "Database Tools"
+    target: "https://github.com/mgramin/awesome-db-tools#readme"
+    ownLabels: ["Databases"]
+  - title: "Vim"
+    target: "https://github.com/mhinz/vim-galore#readme"
+    ownLabels: ["Editors"]
+  - title: "Discord Communities"
+    target: "https://github.com/mhxion/awesome-discord-communities#readme"
+    ownLabels: ["Gaming"]
+  - title: "CSS Learning"
+    target: "https://github.com/micromata/awesome-css-learning#readme"
+    ownLabels: ["Learn"]
+  - title: "JavaScript Learning"
+    target: "https://github.com/micromata/awesome-javascript-learning#readme"
+    ownLabels: ["Learn"]
+  - title: "Amazon Alexa"
+    target: "https://github.com/miguelmota/awesome-amazon-alexa#readme"
+    ownLabels: ["Platforms"]
+  - title: "Dev Fun"
+    target: "https://github.com/mislavcimpersak/awesome-dev-fun#readme"
+    ownLabels: ["Miscellaneous"]
+  - title: "FastAPI"
+    target: "https://github.com/mjhea0/awesome-fastapi#readme"
+    ownLabels: ["Back-End Development"]
+  - title: "Flask"
+    target: "https://github.com/mjhea0/awesome-flask#readme"
+    ownLabels: ["Back-End Development"]
+  - title: "Places to Post Your Startup"
+    target: "https://github.com/mmccaff/PlacesToPostYourStartup#readme"
+    ownLabels: ["Business"]
+  - title: "Services Engineering"
+    target: "https://github.com/mmcgrana/services-engineering#readme"
+    ownLabels: ["Miscellaneous"]
+  - title: "TinkerPop"
+    target: "https://github.com/mohataher/awesome-tinkerpop#readme"
+    ownLabels: ["Databases"]
+  - title: "Visual Regression Testing"
+    target: "https://github.com/mojoaxel/awesome-regression-testing#readme"
+    ownLabels: ["Testing"]
+  - title: "RubyMotion"
+    target: "https://github.com/motion-open-source/awesome-rubymotion#readme"
+    ownLabels: ["Platforms"]
+  - title: "SSH"
+    target: "https://github.com/moul/awesome-ssh#readme"
+    ownLabels: ["Development Environment"]
+  - title: "Credit Modeling"
+    target: "https://github.com/mourarthur/awesome-credit-modeling#readme"
+    ownLabels: ["Miscellaneous"]
+  - title: "Waves"
+    target: "https://github.com/msmolyakov/awesome-waves#readme"
+    ownLabels: ["Decentralized Systems"]
+  - title: "Beginner-Friendly Projects"
+    target: "https://github.com/MunGell/awesome-for-beginners#readme"
+    ownLabels: ["Miscellaneous"]
+  - title: "Playwright"
+    target: "https://github.com/mxschmitt/awesome-playwright#readme"
+    ownLabels: ["Testing"]
+  - title: "Mobile Web Development"
+    target: "https://github.com/myshov/awesome-mobile-web-development#readme"
+    ownLabels: ["Front-End Development"]
+  - title: "Material-UI"
+    target: "https://github.com/nadunindunil/awesome-material-ui#readme"
+    ownLabels: ["Front-End Development"]
+  - title: "Design and Development Guides"
+    target: "https://github.com/NARKOZ/guides#readme"
+    ownLabels: ["Miscellaneous"]
+  - title: "Open Source Maintainers"
+    target: "https://github.com/nayafia/awesome-maintainers#readme"
+    ownLabels: ["Miscellaneous"]
+  - title: "Neo4j"
+    target: "https://github.com/neueda/awesome-neo4j#readme"
+    ownLabels: ["Databases"]
+  - title: "Stock Resources"
+    target: "https://github.com/neutraltone/awesome-stock-resources#readme"
+    ownLabels: ["Media"]
+  - title: "Clean Tech"
+    target: "https://github.com/nglgzz/awesome-clean-tech#readme"
+    ownLabels: ["Business"]
+  - title: "Web Design"
+    target: "https://github.com/nicolesaidy/awesome-web-design#readme"
+    ownLabels: ["Miscellaneous"]
+  - title: "Draft.js"
+    target: "https://github.com/nikgraf/awesome-draft-js#readme"
+    ownLabels: ["Front-End Development"]
+  - title: "Drupal"
+    target: "https://github.com/nirgn975/awesome-drupal#readme"
+    ownLabels: ["Content Management Systems"]
+  - title: "Inspiration"
+    target: "https://github.com/NoahBuscher/Inspire#readme"
+    ownLabels: ["Front-End Development"]
+  - title: "Icons"
+    target: "https://github.com/notlmn/awesome-icons#readme"
+    ownLabels: ["Media"]
+  - title: "Web Audio"
+    target: "https://github.com/notthetup/awesome-webaudio#readme"
+    ownLabels: ["Front-End Development"]
+  - title: "Scientific Computing"
+    target: "https://github.com/nschloe/awesome-scientific-computing#readme"
+    ownLabels: ["Miscellaneous"]
+  - title: "Database"
+    target: "https://github.com/numetriclabz/awesome-db#readme"
+    ownLabels: ["Databases"]
+  - title: "OCaml"
+    target: "https://github.com/ocaml-community/awesome-ocaml#readme"
+    ownLabels: ["Programming Languages"]
+  - title: "Ada/SPARK"
+    target: "https://github.com/ohenley/awesome-ada#readme"
+    ownLabels: ["Programming Languages"]
+  - title: "CMake"
+    target: "https://github.com/onqtam/awesome-cmake#readme"
+    ownLabels: ["Programming Languages"]
+  - title: "Analytics"
+    target: "https://github.com/onurakpolat/awesome-analytics#readme"
+    ownLabels: ["Miscellaneous"]
+  - title: "Big Data"
+    target: "https://github.com/onurakpolat/awesome-bigdata#readme"
+    ownLabels: ["Big Data"]
+  - title: "Open Companies"
+    target: "https://github.com/opencompany/awesome-open-company#readme"
+    ownLabels: ["Business"]
+  - title: "Open Source Society University"
+    target: "https://github.com/ossu/computer-science#readme"
+    ownLabels: ["Computer Science"]
+  - title: "Artificial Intelligence"
+    target: "https://github.com/owainlewis/awesome-artificial-intelligence#readme"
+    ownLabels: ["Theory"]
+  - title: "Web Performance Budget"
+    target: "https://github.com/pajaydev/awesome-web-performance-budget#readme"
+    ownLabels: ["Front-End Development"]
+  - title: "PageSpeed Metrics"
+    target: "https://github.com/palfi-ltd/awesome-pagespeed-metrics#readme"
+    ownLabels: ["Front-End Development"]
+  - title: "Arch-based Projects"
+    target: "https://github.com/PandaFoss/Awesome-Arch#readme"
+    ownLabels: ["Platforms"]
+  - title: "Papers We Love"
+    target: "https://github.com/papers-we-love/papers-we-love#readme"
+    ownLabels: ["Theory"]
+  - title: "Application Security"
+    target: "https://github.com/paragonie/awesome-appsec#readme"
+    ownLabels: ["Security"]
+  - title: "Honeypots"
+    target: "https://github.com/paralax/awesome-honeypots#readme"
+    ownLabels: ["Security"]
+  - title: "Micro npm Packages"
+    target: "https://github.com/parro-it/awesome-micro-npm-packages#readme"
+    ownLabels: ["Programming Languages"]
+  - title: "PureScript"
+    target: "https://github.com/passy/awesome-purescript#readme"
+    ownLabels: ["Programming Languages"]
+  - title: "Recursion Schemes"
+    target: "https://github.com/passy/awesome-recursion-schemes#readme"
+    ownLabels: ["Theory"]
+  - title: "Angular"
+    target: "https://github.com/PatrickJS/awesome-angular#readme"
+    ownLabels: ["Front-End Development"]
+  - title: "Offline-First"
+    target: "https://github.com/pazguille/offline-first#readme"
+    ownLabels: ["Front-End Development"]
+  - title: "Education"
+    target: "https://github.com/pehapkari/awesome-symfony-education#readme"
+    ownLabels: ["Back-End Development"]
+  - title: "Play1 Framework"
+    target: "https://github.com/PerfectCarl/awesome-play1#readme"
+    ownLabels: ["Back-End Development"]
+  - title: "Dojo Toolkit"
+    target: "https://github.com/petk/awesome-dojo#readme"
+    ownLabels: ["Front-End Development"]
+  - title: "jQuery"
+    target: "https://github.com/petk/awesome-jquery#readme"
+    ownLabels: ["Front-End Development"]
+  - title: "Papers"
+    target: "https://github.com/pFarb/awesome-crypto-papers#readme"
+    ownLabels: ["Computer Science"]
+  - title: "Phalcon"
+    target: "https://github.com/phalcon/awesome-phalcon#readme"
+    ownLabels: ["Back-End Development"]
+  - title: "Useful `.htaccess` Snippets"
+    target: "https://github.com/phanan/htaccess#readme"
+    ownLabels: ["Back-End Development"]
+  - title: "Apache Wicket"
+    target: "https://github.com/PhantomYdn/awesome-wicket#readme"
+    ownLabels: ["Back-End Development"]
+  - title: "GitHub"
+    target: "https://github.com/phillipadsmith/awesome-github#readme"
+    ownLabels: ["Development Environment"]
+  - title: "Earth"
+    target: "https://github.com/philsturgeon/awesome-earth#readme"
+    ownLabels: ["Miscellaneous"]
+  - title: "PICO-8"
+    target: "https://github.com/pico-8/awesome-PICO-8#readme"
+    ownLabels: ["Gaming"]
+  - title: "PlayCanvas"
+    target: "https://github.com/playcanvas/awesome-playcanvas#readme"
+    ownLabels: ["Gaming"]
+  - title: "Serverless Framework"
+    target: "https://github.com/pmuens/awesome-serverless#readme"
+    ownLabels: ["Back-End Development"]
+  - title: "Framer"
+    target: "https://github.com/podo/awesome-framer#readme"
+    ownLabels: ["Miscellaneous"]
+  - title: "University Courses"
+    target: "https://github.com/prakhar1989/awesome-courses#readme"
+    ownLabels: ["Computer Science"]
+  - title: "Preact"
+    target: "https://github.com/preactjs/awesome-preact#readme"
+    ownLabels: ["Front-End Development"]
+  - title: "Sustainable Technology"
+    target: "https://github.com/protontypes/awesome-sustainable-technology#readme"
+    ownLabels: ["Higher Education"]
+  - title: "Web Security"
+    target: "https://github.com/qazbnm456/awesome-web-security#readme"
+    ownLabels: ["Security"]
+  - title: "R"
+    target: "https://github.com/qinwf/awesome-R#readme"
+    ownLabels: ["Programming Languages"]
+  - title: "CouchDB"
+    target: "https://github.com/quangv/awesome-couchdb#readme"
+    ownLabels: ["Databases"]
+  - title: ".NET"
+    target: "https://github.com/quozd/awesome-dotnet#readme"
+    ownLabels: ["Platforms"]
+  - title: "Fortran"
+    target: "https://github.com/rabbiabram/awesome-fortran#readme"
+    ownLabels: ["Programming Languages"]
+  - title: "Bluetooth Beacons"
+    target: "https://github.com/rabschi/awesome-beacon#readme"
+    ownLabels: ["Hardware"]
+  - title: "Game Remakes"
+    target: "https://github.com/radek-sprta/awesome-game-remakes#readme"
+    ownLabels: ["Gaming"]
+  - title: "libGDX"
+    target: "https://github.com/rafaskb/awesome-libgdx#readme"
+    ownLabels: ["Gaming"]
+  - title: "Kubernetes"
+    target: "https://github.com/ramitsurana/awesome-kubernetes#readme"
+    ownLabels: ["Back-End Development"]
+  - title: "MongoDB"
+    target: "https://github.com/ramnes/awesome-mongodb#readme"
+    ownLabels: ["Databases"]
+  - title: "Canvas"
+    target: "https://github.com/raphamorim/awesome-canvas#readme"
+    ownLabels: ["Front-End Development"]
+  - title: "Actions on Google"
+    target: "https://github.com/ravirupareliya/awesome-actions-on-google#readme"
+    ownLabels: ["Platforms"]
+  - title: "Social Enterprise"
+    target: "https://github.com/RayBB/awesome-social-enterprise#readme"
+    ownLabels: ["Business"]
+  - title: "HBase"
+    target: "https://github.com/rayokota/awesome-hbase#readme"
+    ownLabels: ["Databases"]
+  - title: "Clojure"
+    target: "https://github.com/razum2um/awesome-clojure#readme"
+    ownLabels: ["Programming Languages"]
+  - title: "Refinery CMS"
+    target: "https://github.com/refinerycms-contrib/awesome-refinerycms#readme"
+    ownLabels: ["Content Management Systems"]
+  - title: "Fantasy"
+    target: "https://github.com/RichardLitt/awesome-fantasy#readme"
+    ownLabels: ["Entertainment"]
+  - title: "Ponyfills"
+    target: "https://github.com/Richienb/awesome-ponyfills#readme"
+    ownLabels: ["Programming Languages"]
+  - title: "Free for Developers"
+    target: "https://github.com/ripienaar/free-for-dev#readme"
+    ownLabels: ["Miscellaneous"]
+  - title: "Prometheus"
+    target: "https://github.com/roaldnefs/awesome-prometheus#readme"
+    ownLabels: ["Miscellaneous"]
+  - title: "ActionScript 3"
+    target: "https://github.com/robinrodricks/awesome-actionscript3#readme"
+    ownLabels: ["Programming Languages"]
+  - title: "Design Principles"
+    target: "https://github.com/robinstickel/awesome-design-principles#readme"
+    ownLabels: ["Miscellaneous"]
+  - title: "R Books"
+    target: "https://github.com/RomanTsegelskyi/rbooks#readme"
+    ownLabels: ["Books"]
+  - title: "Math"
+    target: "https://github.com/rossant/awesome-math#readme"
+    ownLabels: ["Theory"]
+  - title: "Malware Analysis"
+    target: "https://github.com/rshipp/awesome-malware-analysis#readme"
+    ownLabels: ["Security"]
+  - title: "Real-Time Communications"
+    target: "https://github.com/rtckit/awesome-rtc#readme"
+    ownLabels: ["Networking"]
+  - title: "Rust"
+    target: "https://github.com/rust-unofficial/awesome-rust#readme"
+    ownLabels: ["Programming Languages"]
+  - title: "Unity"
+    target: "https://github.com/RyanNielson/awesome-unity#readme"
+    ownLabels: ["Gaming"]
+  - title: "npm scripts"
+    target: "https://github.com/RyanZim/awesome-npm-scripts#readme"
+    ownLabels: ["Programming Languages"]
+  - title: "Material Design"
+    target: "https://github.com/sachin1092/awesome-material#readme"
+    ownLabels: ["Front-End Development"]
+  - title: "Backbone"
+    target: "https://github.com/sadcitizen/awesome-backbone#readme"
+    ownLabels: ["Front-End Development"]
+  - title: "Marionette.js"
+    target: "https://github.com/sadcitizen/awesome-marionette#readme"
+    ownLabels: ["Front-End Development"]
+  - title: "Security"
+    target: "https://github.com/sbilly/awesome-security#readme"
+    ownLabels: ["Security"]
+  - title: "Amazon Sellers"
+    target: "https://github.com/ScaleLeap/awesome-amazon-seller#readme"
+    ownLabels: ["Miscellaneous"]
+  - title: "WP-CLI"
+    target: "https://github.com/schlessera/awesome-wp-cli#readme"
+    ownLabels: ["Miscellaneous"]
+  - title: "Steam"
+    target: "https://github.com/scholtzm/awesome-steam#readme"
+    ownLabels: ["Miscellaneous"]
+  - title: "Software-Defined Networking"
+    target: "https://github.com/sdnds-tw/awesome-sdn#readme"
+    ownLabels: ["Networking"]
+  - title: "GitHub Actions"
+    target: "https://github.com/sdras/awesome-actions#readme"
+    ownLabels: ["Development Environment"]
+  - title: "Splunk"
+    target: "https://github.com/sduff/awesome-splunk#readme"
+    ownLabels: ["Big Data"]
+  - title: "Software Engineering for Machine Learning"
+    target: "https://github.com/SE-ML/awesome-seml#readme"
+    ownLabels: ["Computer Science"]
+  - title: "ColdFusion"
+    target: "https://github.com/seancoyne/awesome-coldfusion#readme"
+    ownLabels: ["Programming Languages"]
+  - title: "CSV"
+    target: "https://github.com/secretGeek/awesomeCSV#readme"
+    ownLabels: ["Miscellaneous"]
+  - title: "Seed"
+    target: "https://github.com/seed-rs/awesome-seed-rs#readme"
+    ownLabels: ["Front-End Development"]
+  - title: "Web Animation"
+    target: "https://github.com/sergey-pimenov/awesome-web-animation#readme"
+    ownLabels: ["Front-End Development"]
+  - title: "Open Source Apps"
+    target: "https://github.com/serhii-londar/open-source-mac-os-apps#readme"
+    ownLabels: ["Platforms"]
+  - title: "Question Answering"
+    target: "https://github.com/seriousran/awesome-qa#readme"
+    ownLabels: ["Computer Science"]
+  - title: "Eta"
+    target: "https://github.com/sfischer13/awesome-eta#readme"
+    ownLabels: ["Programming Languages"]
+  - title: "Frege"
+    target: "https://github.com/sfischer13/awesome-frege#readme"
+    ownLabels: ["Programming Languages"]
+  - title: "Ledger"
+    target: "https://github.com/sfischer13/awesome-ledger#readme"
+    ownLabels: ["Miscellaneous"]
+  - title: "Elixir Books"
+    target: "https://github.com/sger/ElixirBooks#readme"
+    ownLabels: ["Books"]
+  - title: "Creative Commons Media"
+    target: "https://github.com/shime/creative-commons-media#readme"
+    ownLabels: ["Media"]
+  - title: "MySQL"
+    target: "https://github.com/shlomi-noach/awesome-mysql#readme"
+    ownLabels: ["Databases"]
+  - title: "Terraform"
+    target: "https://github.com/shuaibiyy/awesome-terraform#readme"
+    ownLabels: ["Back-End Development"]
+  - title: "Tutorials"
+    target: "https://github.com/siboehm/awesome-learn-datascience#readme"
+    ownLabels: ["Computer Science"]
+  - title: "Colorful"
+    target: "https://github.com/Siddharth11/Colorful#readme"
+    ownLabels: ["Miscellaneous"]
+  - title: "Pixel Art"
+    target: "https://github.com/Siilwyn/awesome-pixel-art#readme"
+    ownLabels: ["Media"]
+  - title: "Software Architecture"
+    target: "https://github.com/simskij/awesome-software-architecture#readme"
+    ownLabels: ["Miscellaneous"]
+  - title: "AMA"
+    target: "https://github.com/sindresorhus/amas#readme"
+    ownLabels: ["Miscellaneous"]
+  - title: "Electron"
+    target: "https://github.com/sindresorhus/awesome-electron#readme"
+    ownLabels: ["Platforms"]
+  - title: "Node.js"
+    target: "https://github.com/sindresorhus/awesome-nodejs#readme"
+    ownLabels: ["Platforms"]
+  - title: "npm"
+    target: "https://github.com/sindresorhus/awesome-npm#readme"
+    ownLabels: ["Programming Languages"]
+  - title: "Observables"
+    target: "https://github.com/sindresorhus/awesome-observables#readme"
+    ownLabels: ["Programming Languages"]
+  - title: "Science Fiction"
+    target: "https://github.com/sindresorhus/awesome-scifi#readme"
+    ownLabels: ["Entertainment"]
+  - title: "TAP"
+    target: "https://github.com/sindresorhus/awesome-tap#readme"
+    ownLabels: ["Testing"]
+  - title: "Awesome"
+    target: "https://github.com/sindresorhus/awesome#readme"
+    ownLabels: ["Miscellaneous"]
+  - title: "Quick Look Plugins"
+    target: "https://github.com/sindresorhus/quick-look-plugins#readme"
+    ownLabels: ["Development Environment"]
+  - title: "Symfony"
+    target: "https://github.com/sitepoint-editors/awesome-symfony#readme"
+    ownLabels: ["Back-End Development"]
+  - title: "WebGL"
+    target: "https://github.com/sjfricke/awesome-webgl#readme"
+    ownLabels: ["Front-End Development"]
+  - title: "Cryptography"
+    target: "https://github.com/sobolevn/awesome-cryptography#readme"
+    ownLabels: ["Computer Science"]
+  - title: "Flutter"
+    target: "https://github.com/Solido/awesome-flutter#readme"
+    ownLabels: ["Platforms"]
+  - title: "JavaScript"
+    target: "https://github.com/sorrycc/awesome-javascript#readme"
+    ownLabels: ["Programming Languages"]
+  - title: "https://github.com/sponsors/sindresorhus"
+    target: "https://github.com/sponsors/sindresorhus"
+  - title: "Elm"
+    target: "https://github.com/sporto/awesome-elm#readme"
+    ownLabels: ["Programming Languages"]
+  - title: "Wagtail"
+    target: "https://github.com/springload/awesome-wagtail#readme"
+    ownLabels: ["Content Management Systems"]
+  - title: "Appium"
+    target: "https://github.com/SrinivasanTarget/awesome-appium#readme"
+    ownLabels: ["Testing"]
+  - title: "Stacks"
+    target: "https://github.com/stackshareio/awesome-stacks#readme"
+    ownLabels: ["Miscellaneous"]
+  - title: "Standard Style"
+    target: "https://github.com/standard/awesome-standard#readme"
+    ownLabels: ["Programming Languages"]
+  - title: "Browser Extensions"
+    target: "https://github.com/stefanbuck/awesome-browser-extensions-for-github#readme"
+    ownLabels: ["Development Environment"]
+  - title: "Gideros"
+    target: "https://github.com/stetso/awesome-gideros#readme"
+    ownLabels: ["Gaming"]
+  - title: "Git Add-ons"
+    target: "https://github.com/stevemao/awesome-git-addons#readme"
+    ownLabels: ["Development Environment"]
+  - title: "Blockchain AI"
+    target: "https://github.com/steven2358/awesome-blockchain-ai#readme"
+    ownLabels: ["Decentralized Systems"]
+  - title: "Connectivity Data and Reports"
+    target: "https://github.com/stevesong/awesome-connectivity-info#readme"
+    ownLabels: ["Miscellaneous"]
+  - title: "Audiovisual"
+    target: "https://github.com/stingalleman/awesome-audiovisual#readme"
+    ownLabels: ["Media"]
+  - title: "Answers"
+    target: "https://github.com/stoeffel/awesome-ama-answers#readme"
+    ownLabels: ["Miscellaneous"]
+  - title: "Functional Programming"
+    target: "https://github.com/stoeffel/awesome-fp-js#readme"
+    ownLabels: ["Programming Languages"]
+  - title: "BEM"
+    target: "https://github.com/sturobson/BEM-resources#readme"
+    ownLabels: ["Front-End Development"]
+  - title: "Dropwizard"
+    target: "https://github.com/stve/awesome-dropwizard#readme"
+    ownLabels: ["Back-End Development"]
+  - title: "Funny Markov Chains"
+    target: "https://github.com/sublimino/awesome-funny-markov#readme"
+    ownLabels: ["Miscellaneous"]
+  - title: "Substrate"
+    target: "https://github.com/substrate-developer-hub/awesome-substrate#readme"
+    ownLabels: ["Decentralized Systems"]
+  - title: "Julia"
+    target: "https://github.com/svaksha/Julia.jl#readme"
+    ownLabels: ["Programming Languages"]
+  - title: "LIDAR"
+    target: "https://github.com/szenergy/awesome-lidar#readme"
+    ownLabels: ["Hardware"]
+  - title: "Book Authoring"
+    target: "https://github.com/TalAter/awesome-book-authoring#readme"
+    ownLabels: ["Books"]
+  - title: "Progressive Web Apps"
+    target: "https://github.com/TalAter/awesome-progressive-web-apps#readme"
+    ownLabels: ["Front-End Development"]
+  - title: "Service Workers"
+    target: "https://github.com/TalAter/awesome-service-workers#readme"
+    ownLabels: ["Front-End Development"]
+  - title: "https://github.com/TaptuIT/awesome-devsecops#readme"
+    target: "https://github.com/TaptuIT/awesome-devsecops#readme"
+  - title: "Algorithms"
+    target: "https://github.com/tayllan/awesome-algorithms#readme"
+    ownLabels: ["Theory"]
+  - title: "Product Design"
+    target: "https://github.com/teoga/awesome-product-design#readme"
+    ownLabels: ["Miscellaneous"]
+  - title: "Creative Coding"
+    target: "https://github.com/terkelg/awesome-creative-coding#readme"
+    ownLabels: ["Miscellaneous"]
+  - title: "Papers"
+    target: "https://github.com/terryum/awesome-deep-learning-papers#readme"
+    ownLabels: ["Computer Science"]
+  - title: "Core"
+    target: "https://github.com/thangchung/awesome-dotnet-core#readme"
+    ownLabels: ["Platforms"]
+  - title: "Svelte"
+    target: "https://github.com/TheComputerM/awesome-svelte#readme"
+    ownLabels: ["Front-End Development"]
+  - title: "Linguistics"
+    target: "https://github.com/theimpossibleastronaut/awesome-linguistics#readme"
+    ownLabels: ["Computer Science"]
+  - title: "Testing"
+    target: "https://github.com/TheJambo/awesome-testing#readme"
+    ownLabels: ["Testing"]
+  - title: "CLI Workshoppers"
+    target: "https://github.com/therebelrobot/awesome-workshopper#readme"
+    ownLabels: ["Learn"]
+  - title: "Raspberry Pi"
+    target: "https://github.com/thibmaek/awesome-raspberry-pi#readme"
+    ownLabels: ["Platforms"]
+  - title: "Web Monetization"
+    target: "https://github.com/thomasbnt/awesome-web-monetization#readme"
+    ownLabels: ["Miscellaneous"]
+  - title: "Cheat Sheet"
+    target: "https://github.com/tiimgreen/github-cheat-sheet#readme"
+    ownLabels: ["Development Environment"]
+  - title: "Asyncio"
+    target: "https://github.com/timofurrer/awesome-asyncio#readme"
+    ownLabels: ["Programming Languages"]
+  - title: "Scala Native"
+    target: "https://github.com/tindzk/awesome-scala-native#readme"
+    ownLabels: ["Programming Languages"]
+  - title: "Mastodon"
+    target: "https://github.com/tleb/awesome-mastodon#readme"
+    ownLabels: ["Decentralized Systems"]
+  - title: "GeoJSON"
+    target: "https://github.com/tmcw/awesome-geojson#readme"
+    ownLabels: ["Miscellaneous"]
+  - title: "Pokémon"
+    target: "https://github.com/tobiasbueschel/awesome-pokemon#readme"
+    ownLabels: ["Miscellaneous"]
+  - title: "CHIP-8"
+    target: "https://github.com/tobiasvl/awesome-chip-8#readme"
+    ownLabels: ["Gaming"]
+  - title: "Natural Language Generation"
+    target: "https://github.com/tokenmill/awesome-nlg#readme"
+    ownLabels: ["Computer Science"]
+  - title: "All Awesome Lists"
+    target: "https://github.com/topics/awesome"
+    ownLabels: ["Related"]
+  - title: "Niche Job Boards"
+    target: "https://github.com/tramcar/awesome-job-boards#readme"
+    ownLabels: ["Work"]
+  - title: "FFmpeg"
+    target: "https://github.com/transitive-bullshit/awesome-ffmpeg#readme"
+    ownLabels: ["Media"]
+  - title: "Frameworks"
+    target: "https://github.com/troxler/awesome-css-frameworks#readme"
+    ownLabels: ["Front-End Development"]
+  - title: "Ethereum"
+    target: "https://github.com/ttumiel/Awesome-Ethereum#readme"
+    ownLabels: ["Decentralized Systems"]
+  - title: "FOSS for Developers"
+    target: "https://github.com/tvvocold/FOSS-for-Dev#readme"
+    ownLabels: ["Development Environment"]
+  - title: "Typing"
+    target: "https://github.com/typeddjango/awesome-python-typing#readme"
+    ownLabels: ["Programming Languages"]
+  - title: "Dash"
+    target: "https://github.com/ucg8j/awesome-dash#readme"
+    ownLabels: ["Back-End Development"]
+  - title: "Tutorials"
+    target: "https://github.com/ujjwalkarn/Machine-Learning-Tutorials#readme"
+    ownLabels: ["Computer Science"]
+  - title: "Umbraco"
+    target: "https://github.com/umbraco-community/awesome-umbraco#readme"
+    ownLabels: ["Content Management Systems"]
+  - title: "Awesome CLI"
+    target: "https://github.com/umutphp/awesome-cli"
+    ownLabels: ["Related"]
+  - title: "Lumen"
+    target: "https://github.com/unicodeveloper/awesome-lumen#readme"
+    ownLabels: ["Back-End Development"]
+  - title: "Next.js"
+    target: "https://github.com/unicodeveloper/awesome-nextjs#readme"
+    ownLabels: ["Front-End Development"]
+  - title: "ZSH Plugins"
+    target: "https://github.com/unixorn/awesome-zsh-plugins#readme"
+    ownLabels: ["Development Environment"]
+  - title: "Software Patreons"
+    target: "https://github.com/uraimo/awesome-software-patreons#readme"
+    ownLabels: ["Miscellaneous"]
+  - title: "Playgrounds"
+    target: "https://github.com/uraimo/Awesome-Swift-Playgrounds#readme"
+    ownLabels: ["Programming Languages"]
+  - title: "Pyramid"
+    target: "https://github.com/uralbash/awesome-pyramid#readme"
+    ownLabels: ["Back-End Development"]
+  - title: "Meteor"
+    target: "https://github.com/Urigo/awesome-meteor#readme"
+    ownLabels: ["Front-End Development"]
+  - title: "Crystal"
+    target: "https://github.com/veelenga/awesome-crystal#readme"
+    ownLabels: ["Programming Languages"]
+  - title: "Docker"
+    target: "https://github.com/veggiemonk/awesome-docker#readme"
+    ownLabels: ["Back-End Development"]
+  - title: "Vert.x"
+    target: "https://github.com/vert-x3/vertx-awesome#readme"
+    ownLabels: ["Back-End Development"]
+  - title: "Ripple"
+    target: "https://github.com/vhpoet/awesome-ripple#readme"
+    ownLabels: ["Decentralized Systems"]
+  - title: "Visual Studio Code"
+    target: "https://github.com/viatsko/awesome-vscode#readme"
+    ownLabels: ["Editors"]
+  - title: "IT Quotes"
+    target: "https://github.com/victorlaerte/awesome-it-quotes#readme"
+    ownLabels: ["Entertainment"]
+  - title: "IBM Cloud"
+    target: "https://github.com/victorshinya/awesome-ibmcloud#readme"
+    ownLabels: ["Platforms"]
+  - title: "Vulkan"
+    target: "https://github.com/vinjn/awesome-vulkan#readme"
+    ownLabels: ["Miscellaneous"]
+  - title: "Social Media Share Links"
+    target: "https://github.com/vinkla/shareable-links#readme"
+    ownLabels: ["Miscellaneous"]
+  - title: "Python"
+    target: "https://github.com/vinta/awesome-python#readme"
+    ownLabels: ["Programming Languages"]
+  - title: "Smart TV"
+    target: "https://github.com/vitalets/awesome-smart-tv#readme"
+    ownLabels: ["Platforms"]
+  - title: "V"
+    target: "https://github.com/vlang/awesome-v#readme"
+    ownLabels: ["Programming Languages"]
+  - title: "Vorpal"
+    target: "https://github.com/vorpaljs/awesome-vorpal#readme"
+    ownLabels: ["Miscellaneous"]
+  - title: "iOS"
+    target: "https://github.com/vsouza/awesome-ios#readme"
+    ownLabels: ["Platforms"]
+  - title: "Vue.js"
+    target: "https://github.com/vuejs/awesome-vue#readme"
+    ownLabels: ["Front-End Development"]
+  - title: "Wardley Maps"
+    target: "https://github.com/wardley-maps-community/awesome-wardley-maps#readme"
+    ownLabels: ["Business"]
+  - title: "Android UI"
+    target: "https://github.com/wasabeef/awesome-android-ui#readme"
+    ownLabels: ["Front-End Development"]
+  - title: "Computer History"
+    target: "https://github.com/watson/awesome-computer-history#readme"
+    ownLabels: ["Learn"]
+  - title: "Promises"
+    target: "https://github.com/wbinnssmith/awesome-promises#readme"
+    ownLabels: ["Programming Languages"]
+  - title: "D3"
+    target: "https://github.com/wbkd/awesome-d3#readme"
+    ownLabels: ["Front-End Development"]
+  - title: "lit-html"
+    target: "https://github.com/web-padawan/awesome-lit-html#readme"
+    ownLabels: ["Front-End Development"]
+  - title: "Construct 2"
+    target: "https://github.com/WebCreationClub/awesome-construct#readme"
+    ownLabels: ["Gaming"]
+  - title: "IoT & Hybrid Apps"
+    target: "https://github.com/weblancaster/awesome-IoT-hybrid#readme"
+    ownLabels: ["Platforms"]
+  - title: "webpack"
+    target: "https://github.com/webpack-contrib/awesome-webpack#readme"
+    ownLabels: ["Front-End Development"]
+  - title: "Dotfiles"
+    target: "https://github.com/webpro/awesome-dotfiles#readme"
+    ownLabels: ["Development Environment"]
+  - title: "Ant Design"
+    target: "https://github.com/websemantics/awesome-ant-design#readme"
+    ownLabels: ["Front-End Development"]
+  - title: "Audio Visualization"
+    target: "https://github.com/willianjusten/awesome-audio-visualization#readme"
+    ownLabels: ["Media"]
+  - title: "SVG"
+    target: "https://github.com/willianjusten/awesome-svg#readme"
+    ownLabels: ["Front-End Development"]
+  - title: "Unicode"
+    target: "https://github.com/Wisdom/Awesome-Unicode#readme"
+    ownLabels: ["Miscellaneous"]
+  - title: "Quantified Self"
+    target: "https://github.com/woop/awesome-quantified-self#readme"
+    ownLabels: ["Miscellaneous"]
+  - title: "Scientific Writing"
+    target: "https://github.com/writing-resources/awesome-scientific-writing#readme"
+    ownLabels: ["Higher Education"]
+  - title: "Xamarin"
+    target: "https://github.com/XamSome/awesome-xamarin#readme"
+    ownLabels: ["Platforms"]
+  - title: "DTrace"
+    target: "https://github.com/xen0l/awesome-dtrace#readme"
+    ownLabels: ["Miscellaneous"]
+  - title: "TikZ"
+    target: "https://github.com/xiaohanyu/awesome-tikz#readme"
+    ownLabels: ["Miscellaneous"]
+  - title: "Calculators"
+    target: "https://github.com/xxczaki/awesome-calculators#readme"
+    ownLabels: ["Miscellaneous"]
+  - title: "watchOS"
+    target: "https://github.com/yenchenlin/awesome-watchos#readme"
+    ownLabels: ["Platforms"]
+  - title: "Dart"
+    target: "https://github.com/yissachar/awesome-dart#readme"
+    ownLabels: ["Programming Languages"]
+  - title: "Hadoop"
+    target: "https://github.com/youngwookim/awesome-hadoop#readme"
+    ownLabels: ["Big Data"]
+  - title: "Educational Games"
+    target: "https://github.com/yrgo/awesome-educational-games#readme"
+    ownLabels: ["Learn"]
+  - title: "Open Source Supporters"
+    target: "https://github.com/zachflower/awesome-open-source-supporters#readme"
+    ownLabels: ["Miscellaneous"]
+  - title: "D"
+    target: "https://github.com/zhaopuming/awesome-d#readme"
+    ownLabels: ["Programming Languages"]
+  - title: "Crypto Currency Tools & Algorithms"
+    target: "https://github.com/Zheaoli/awesome-coins#readme"
+    ownLabels: ["Miscellaneous"]
+  - title: "PHP"
+    target: "https://github.com/ziadoz/awesome-php#readme"
+    ownLabels: ["Programming Languages"]
+  - title: "Charting"
+    target: "https://github.com/zingchart/awesome-charting#readme"
+    ownLabels: ["Front-End Development"]
+  - title: "eBPF"
+    target: "https://github.com/zoidbergwill/awesome-ebpf#readme"
+    ownLabels: ["Platforms"]
+  - title: "Email Newsletters"
+    target: "https://github.com/zudochkin/awesome-newsletters#readme"
+    ownLabels: ["Entertainment"]
+  - title: "Captcha"
+    target: "https://github.com/ZYSzys/awesome-captcha#readme"
+    ownLabels: ["Miscellaneous"]
+  - title: "https://standardresume.co"
+    target: "https://standardresume.co"
+  - title: "https://twitter.com/awesome__re"
+    target: "https://twitter.com/awesome__re"
+  - title: "https://twitter.com/sindresorhus"
+    target: "https://twitter.com/sindresorhus"
+  - title: "https://www.redbubble.com/people/sindresorhus/works/30364188-awesome-logo"
+    target: "https://www.redbubble.com/people/sindresorhus/works/30364188-awesome-logo"
